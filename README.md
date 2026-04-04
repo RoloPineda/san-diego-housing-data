@@ -13,8 +13,6 @@ a unified dataset for research and policy analysis.
 - **639 properties** mapped to **74 property management companies** managing **60,000+ units**
 - **8,325 active STRO licenses** (Airbnb-style short-term rentals) = 2.44% of city rental units
 - **13,162 Airbnb listings** scraped from Inside Airbnb (vs 8,325 licensed STROs)
-- Top PM: Greystar (118 properties, 17K+ units), CONAM (131 properties, 8.4K units)
-- Greystar has 2.6x fewer complaints per unit than CONAM (0.070 vs 0.185)
 
 ## Data Sources
 
@@ -27,8 +25,12 @@ a unified dataset for research and policy analysis.
 | [Business Tax Certs](https://data.sandiego.gov/) | 300K+ | Active and inactive business registrations |
 | [Inside Airbnb](https://insideairbnb.com/san-diego/) | 13K | Airbnb listings with pricing, reviews, availability |
 | [CA DRE](https://www.dre.ca.gov/) | 435K | Licensed real estate brokers, salespersons, corporations |
-| [Apartments.com](https://www.apartments.com/) | 639 | Property management company directory (75 PMCs) |
+| Apartments.com | 639 | Property management company directory (75 PMCs) |
 | Greystar, CONAM | 258 | Direct company website scrapes |
+
+> **Note**: The apartments.com scraper is not included in this repository
+> due to the site's terms of service. The scraped data is loaded via the
+> enriched CSV.
 
 ## Repository Structure
 
@@ -164,7 +166,7 @@ jupyter lab apartments_com/apartments_com.ipynb
 jupyter lab rental_properties/rental_properties.ipynb
 ```
 
-## Methodology Notes
+## Methodology
 
 - **Rental identification**: a parcel is classified as rental when its land
   use code is residential and `OWNEROCC != 'Y'` (not owner-occupied)
@@ -175,11 +177,3 @@ jupyter lab rental_properties/rental_properties.ipynb
   directions (NORTH/N), ordinals (FOURTH/4TH), and abbreviations (MT/MOUNT)
 - **Confidence flagging**: properties where a major PMC shows 0-4 units are
   flagged as low-confidence (likely wrong parcel match from newer construction)
-- **Parcel data limitations**: SANDAG parcel data is updated monthly but
-  newer construction may show as vacant land with 0 units. Owner name data
-  was removed from public downloads in December 2025 due to CA AB1785
-
-## License
-
-Data sourced from public government portals and public-facing websites.
-Analysis code is provided as-is for research purposes.
