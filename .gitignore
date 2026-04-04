@@ -5,7 +5,9 @@
 /sandag/data/
 /airbnb/data/
 /dre_licensees/data/
-/apartments_com/data/
+/apartments_com/data/pmc_progress.jsonl
+/apartments_com/data/scrape.log
+/apartments_com/data/session_cookies.json
 /apartments_com/scrape.py
 /apartments_com/README.md
 /.venv/

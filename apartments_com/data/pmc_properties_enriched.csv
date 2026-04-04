@@ -1,0 +1,640 @@
+pmc_name,name,street_address,city,zip5,source,APN,total_units,assessed_value,landuse_label,SITUS_COMM
+AMC,Artisan,1601 Broadway,San Diego,92101,apartments.com,5343600500,265,109752000,,SAN DIEGO
+AMC,Echo Pointe,4300 Echo Ct,La Mesa,91941,apartments.com,4994810600,4,1505583,Multifamily 2-4,LA MESA
+AMC,Hillside Terrace Apartments,3262 College Pl,Lemon Grove,91945,apartments.com,4790623300,150,15382829,Apartment 61+,LEMON GROVE
+AMC,Lakeview Village,3115 Sweetwater Springs Blvd,Spring Valley,91977,apartments.com,,,,,
+AMC,Outlook at Mission Valley,8360 Phyllis Pl,San Diego,92123,apartments.com,6773603300,2,8361307,,SAN DIEGO
+AMC,The Commodore,200 E 31st St,National City,91950,apartments.com,5622524500,92,22880465,Apartment 61+,NATIONAL CITY
+AMC,Trolley Palm,4302 Palm Ave,La Mesa,91941,apartments.com,4990203700,75,24084114,Apartment 61+,LA MESA
+Alfred,Winslow,4353 Park Blvd,San Diego,92103,apartments.com,4453102100,379,183151719,,SAN DIEGO
+Allen Properties,Courtyard on 68th,4823 68th St,San Diego,92115,apartments.com,4682602400,38,13146625,Apartment 16-60,SAN DIEGO
+Aperto Property Management,Meadowbrook,7784-7844 Paradise Valley Rd,San Diego,92139,apartments.com,5861021400,208,29008824,Apartment 61+,SAN DIEGO
+Atlantic Pacific Companies,Cresta Bella,11035 Via Livorno,San Diego,11035,apartments.com,3130600500,368,89166117,Apartment 61+,SAN DIEGO
+Atlantic Pacific Companies,River Run Village,2225-2295 River Run Dr,San Diego,92108,apartments.com,,,,,
+Atlantic Pacific Companies,The Courtyards Pacific Village,10977 Pacific Point Pl,San Diego,10977,apartments.com,,,,,
+Atlantic Pacific Companies,The Hills,15095 Via Hondonada,San Diego,15095,apartments.com,,,,,
+Atlantic Pacific Companies,The Villas at Camino Bernardo,11203 Paseo Montanoso,San Diego,11203,apartments.com,3133014000,344,39829482,Apartment 61+,SAN DIEGO
+AvalonBay,AVA Balboa Park,3288 5th Ave,San Diego,92103,apartments.com,4525553400,97,43300000,,SAN DIEGO
+AvalonBay,AVA Pacific Beach,3883 Ingraham St,San Diego,92109,apartments.com,4234231300,506,211482177,Apartment 61+,SAN DIEGO
+AvalonBay,eaves Rancho Penasquitos,10024 Paseo Montril,San Diego,10024,apartments.com,3150703900,250,67711037,Apartment 61+,SAN DIEGO
+Avenue5 Residential,Ariva,4855 Ariva Way,San Diego,92123,apartments.com,3692209600,126,38501236,Apartment 61+,SAN DIEGO
+Avenue5 Residential,Simone Little Italy,1401 Union St,San Diego,92101,apartments.com,5333430500,395,236100000,Apartment 61+,SAN DIEGO
+Avenue5 Residential,The Summit at Point Loma,3950-3950 Leland St,San Diego,92106,apartments.com,4497902400,114,23397142,Apartment 61+,SAN DIEGO
+Avenue5 Residential,Treehouse,2525 1st Ave,San Diego,92103,apartments.com,5330910300,107,7472956,Apartment 61+,SAN DIEGO
+Avenue5 Residential,VAYA on Axia,1910 Axia Way,Chula Vista,91915,apartments.com,6430606900,278,31730000,Apartment 61+,CHULA VISTA
+Avenue5 Residential,Vive Luxe,4890 Sunroad Centrum Ln,San Diego,92123,apartments.com,3692301500,442,194431112,Apartment 61+,""
+Avenue5 Residential,Vive on The Park,8725 Ariva Ct,San Diego,92123,apartments.com,3692301700,302,98486750,Apartment 61+,SAN DIEGO
+Berkshire,The Rey,801 A St,San Diego,92101,apartments.com,5340660800,478,174094190,,SAN DIEGO
+Blackstone,Hidden Cove,910 Del Dios Hwy,Escondido,92029,apartments.com,2350904000,204,19668758,Apartment 61+,ESCONDIDO
+Blackstone,Mariners Cove,4392 W Point Loma Blvd,San Diego,92107,apartments.com,4498673500,10,2867583,Apartment 5-15,SAN DIEGO
+Bob Cota Realty,Casa de Palomar Apartments,225 Palomar St,Chula Vista,91911,apartments.com,6192221100,80,14777136,Apartment 61+,CHULA VISTA
+Bob Cota Realty,Crestview Apartments,4515 3rd St,La Mesa,91941,apartments.com,4946302000,50,4562129,Apartment 16-60,LA MESA
+Bob Cota Realty,Plaza Del Rey,900 E 12th St,National City,91950,apartments.com,5610110600,15,6568876,Apartment 5-15,NATIONAL CITY
+Bob Cota Realty,Pomerado Gardens Apartments,12330 9th St,Poway,12330,apartments.com,3170213300,36,3452056,Apartment 16-60,POWAY
+Bob Cota Realty,Rolando Place Apartments,4747-4759 67th St,San Diego,92115,apartments.com,4683303300,9,5097960,Apartment 5-15,SAN DIEGO
+Bob Cota Realty,Sea Vale Bluff Apartments,671 Sea Vale St,Chula Vista,91910,apartments.com,5653001100,21,5439221,Apartment 16-60,CHULA VISTA
+Bridge Property Management,Colonnade at Fletcher Hills,2700 Chatham St,El Cajon,92020,apartments.com,4813102300,42,15429969,Apartment 16-60,EL CAJON
+Bridge Property Management,Cove La Mesa,7400 Parkway Dr,La Mesa,91942,apartments.com,4644800400,133,46744831,Apartment 61+,LA MESA
+Bridge Property Management,Forest Park at Fletcher Hills,1210-1250 Petree St,El Cajon,92020,apartments.com,4824200300,158,58449156,Apartment 61+,EL CAJON
+Bridge Property Management,Palmilla,5474 Reservoir Dr,San Diego,92120,apartments.com,4635902700,117,30957558,Apartment 61+,SAN DIEGO
+Bridge Property Management,Parkway Club,1237-1237 Graves Ave,El Cajon,92021,apartments.com,4830812700,224,74284560,Apartment 61+,EL CAJON
+Brookfield Properties,The Merian,601 11th Ave,San Diego,92101,apartments.com,2360910400,428,270797433,Single Family,ESCONDIDO
+CONAM Management Corporation,,1515 S Melrose Dr,Vista,92081,direct,1690110500,184,38957020,Apartment 61+,VISTA
+CONAM Management Corporation,,2603 Jefferson St,Carlsbad,92008,direct,1551704800,44,19679090,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,4380 Alvarado Canyon Road,San Diego,92120,direct,4613202800,103,11489797,Hotel/Motel,SAN DIEGO
+CONAM Management Corporation,,1768 Java Way,Chula Vista,91915,direct,,,,,
+CONAM Management Corporation,,6711 Torenia Trail,San Diego,92130,direct,,,,,
+CONAM Management Corporation,,3229 Mission Cove Way,Oceanside,92054,direct,,,,,
+CONAM Management Corporation,,1901 Cassia Road,Carlsbad,92011,direct,2150202500,157,48528507,Apartment 61+,CARLSBAD
+CONAM Management Corporation,,4795 Frazee Rd,Oceanside,92057,direct,,,,,
+CONAM Management Corporation,,6591 Rancho del Sol Way,San Diego,92130,direct,3051220900,32,4300741,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,3610 Harding Street,San Diego,92127,direct,,,,,
+CONAM Management Corporation,,15051 Junipers Drive,San Diego,92129,direct,,,,,
+CONAM Management Corporation,,12509 Oak Knoll Road,Poway,92064,direct,,,,,
+CONAM Management Corporation,,5052 Hilltop Drive,San Diego,92102,direct,5425620300,1,349360,Single Family,SAN DIEGO
+CONAM Management Corporation,,12979 Community Road,Poway,92064,direct,3174802000,72,6731393,Apartment 61+,POWAY
+CONAM Management Corporation,,4254 Corte Sol,Oceanside,92056,direct,,,,,
+CONAM Management Corporation,,1231 Medical Center Drive,Chula Vista,91911,direct,,,,,
+CONAM Management Corporation,,1475 Oak Drive,Vista,92084,direct,1730630900,76,10172999,Apartment 61+,VISTA
+CONAM Management Corporation,,1600 W Ninth Ave,Escondido,92029,direct,2325421300,132,10389635,Apartment 61+,ESCONDIDO
+CONAM Management Corporation,,6950 Levant Street,San Diego,92111,direct,7602169800,127,17923002,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,2965 Luiseno Way,Carlsbad,92010,direct,1670405800,64,10601378,Apartment 16-60,""
+CONAM Management Corporation,,5858 Mt. Alifan Street,San Diego,92111,direct,4198200700,53,5436867,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,2357 S. Santa Fe,Vista,92083,direct,2170820800,0,6242400,,VISTA
+CONAM Management Corporation,,4470 Alvarado Canyon Rd.,San Diego,92120,direct,4613202300,0,1736303,,SAN DIEGO
+CONAM Management Corporation,,2645 Ulric Street,San Diego,92111,direct,4317200200,96,9937068,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,3690 Del Sol Blvd,San Diego,92154,direct,6302801900,1,2307512,,SAN DIEGO
+CONAM Management Corporation,,240 Landis Avenue,Chula Vista,91910,direct,5680431400,33,3737399,Apartment 16-60,CHULA VISTA
+CONAM Management Corporation,,373 S. Willie James Jones Avenue,San Diego,92113,direct,5482414400,27,1596747,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,4200 Texas Street,San Diego,92104,direct,4455223400,1,972000,Single Family,SAN DIEGO
+CONAM Management Corporation,,525 E Camden Avenue,El Cajon,92020,direct,4883342600,70,7177279,Apartment 61+,EL CAJON
+CONAM Management Corporation,,1453 4th Avenue,San Diego,92101,direct,5334510200,0,0,,SAN DIEGO
+CONAM Management Corporation,,815 Civic Center Drive,Vista,92084,direct,1753233300,30,0,Apartment 16-60,VISTA
+CONAM Management Corporation,,260 N. Midway Drive,Escondido,92027,direct,2310923900,200,30068440,Apartment 16-60,ESCONDIDO
+CONAM Management Corporation,,444 East Fourth Avenue,Escondido,92025,direct,2294800900,132,13749461,Apartment 61+,ESCONDIDO
+CONAM Management Corporation,,13455 Poway Creek Road,Poway,92064,direct,3174817400,0,0,,POWAY
+CONAM Management Corporation,,601 Telegraph Canyon Road,Chula Vista,91910,direct,6390806100,183,52579533,Apartment 61+,CHULA VISTA
+CONAM Management Corporation,,1055 Ninth Ave,San Diego,92101,direct,7602140400,156,19686112,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,16775 Saintsbury Glen,San Diego,92127,direct,6786201102,1,962402,Condo,SAN DIEGO
+CONAM Management Corporation,,4422 Euclid Avenue,San Diego,92115,direct,4711912000,1,1734000,,SAN DIEGO
+CONAM Management Corporation,,4029 43rd Street,San Diego,92105,direct,4714511900,1,1485690,,SAN DIEGO
+CONAM Management Corporation,,1500 Orange Place,Escondido,92025,direct,2362238700,906,1297170852,Apartment 16-60,""
+CONAM Management Corporation,,1260 Calle Jules,Vista,92084,direct,1732503500,26,2488704,Apartment 16-60,VISTA
+CONAM Management Corporation,,2155 Corte Vista,Chula Vista,91915,direct,6436300100,150,28671804,Apartment 61+,CHULA VISTA
+CONAM Management Corporation,,1194 Hollister Street,San Diego,92154,direct,6340107300,0,0,,SAN DIEGO
+CONAM Management Corporation,,4050 University Avenue,San Diego,92105,direct,4547722600,1,2297358,,SAN DIEGO
+CONAM Management Corporation,,4372 Home Avenue,San Diego,92105,direct,5410601200,0,392234,,SAN DIEGO
+CONAM Management Corporation,,3795 Florida Street,San Diego,92104,direct,4530125800,83,12812651,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,6240 Mission Gorge Road,San Diego,92120,direct,4585222500,74,9918002,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,7785 Mission Gorge Road,San Diego,92120,direct,4563100900,90,12009293,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,13414 Community Road,Poway,92064,direct,3171015300,56,5998231,Apartment 16-60,POWAY
+CONAM Management Corporation,,624 12th Street,Imperial Beach,91932,direct,6262301600,15,2704296,Apartment 5-15,IMPERIAL BEACH
+CONAM Management Corporation,,515 13th Street,San Diego,92101,direct,2361610700,1,2209161,,ESCONDIDO
+CONAM Management Corporation,,13370 Torrey Meadows Drive,San Diego,92129,direct,3060412900,76,12006225,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,13098 Poway Road,Poway,92064,direct,3171015500,44,6636793,Apartment 16-60,""
+CONAM Management Corporation,,641 North Vulcan,Encinitas,92024,direct,2561005500,20,5339358,Apartment 16-60,ENCINITAS
+CONAM Management Corporation,,1150 Quail Gardens Drive,Encinitas,92024,direct,2573911400,1,681097,Single Family,ENCINITAS
+CONAM Management Corporation,,4321 52nd Street,San Diego,92115,direct,7602241700,88,8506529,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,1290 Keeler Court,San Diego,92113,direct,5511502200,71,7765259,Apartment 61+,""
+CONAM Management Corporation,,6984 Torrey Santa Fe Road,San Diego,92129,direct,3063624500,26,3921797,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,2122 Burdock Way,Chula Vista,91915,direct,,,,,
+CONAM Management Corporation,,315 Walnut Avenue,Carlsbad,92008,direct,2041322800,64,9406377,Apartment 61+,CARLSBAD
+CONAM Management Corporation,,201 Country Club Lane,Oceanside,92054,direct,1482910400,90,17262738,Apartment 61+,OCEANSIDE
+CONAM Management Corporation,,501 South Santa Fe Avenue,Vista,92083,direct,7601844700,8,856616,,VISTA
+CONAM Management Corporation,,360 Chestnut Ave,Carlsbad,92008,direct,2041320300,23,5009397,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,173 Durian St,Vista,92083,direct,1661103900,48,7864564,Apartment 16-60,VISTA
+CONAM Management Corporation,,3810 Winona Avenue,San Diego,92105,direct,4717022800,68,12240000,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,355 Pine Avenue,Carlsbad,92008,direct,2041322600,31,4418829,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,3634 College Blvd,Oceanside,92056,direct,4735600900,1,303329,Single Family,SAN DIEGO
+CONAM Management Corporation,,3820 43rd Street,San Diego,92105,direct,4715513400,30,4447015,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,4079 Messina Drive,San Diego,92113,direct,5473700300,21,4106421,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,1435 Imperial Avenue,San Diego,92101,direct,5356141000,63,7207166,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,8729 Graves Ave,Santee,92071,direct,3841420300,160,34211747,Apartment 61+,SANTEE
+CONAM Management Corporation,,235 Via Pelicano,Oceanside,92057,direct,1583301500,14,2219960,Apartment 16-60,OCEANSIDE
+CONAM Management Corporation,,1730 3rd Avenue,San Diego,92101,direct,5332721200,155,34433013,,SAN DIEGO
+CONAM Management Corporation,,4105 Georgia Street,San Diego,92103,direct,4455023600,31,4250000,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,1985 National Avenue,San Diego,92113,direct,5385111000,93,14571561,,SAN DIEGO
+CONAM Management Corporation,,2129 Coronado Avenue,San Diego,92154,direct,6340103000,50,4197537,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,1715 Orion Avenue,Chula Vista,91913,direct,6430605900,87,8126690,Apartment 61+,""
+CONAM Management Corporation,,4054 43rd Street,San Diego,92105,direct,4714513100,11,2490716,Apartment 5-15,SAN DIEGO
+CONAM Management Corporation,,315 Acacia Ave,Carlsbad,92008,direct,2042400400,24,10874633,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,493 Beaumont Glen,Escondido,92026,direct,2262012200,184,18332500,Apartment 61+,ESCONDIDO
+CONAM Management Corporation,,4150 Bonillo Drive,San Diego,92115,direct,4732202700,42,6664173,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,1734 Solstice Avenue,Chula Vista,91913,direct,6430606000,123,10808698,Apartment 61+,CHULA VISTA
+CONAM Management Corporation,,5003 Imperial Avenue,San Diego,92113,direct,5482423000,2,0,,SAN DIEGO
+CONAM Management Corporation,,8201 Merge Avenue,San Diego,92129,direct,3064243100,47,9156295,Apartment 16-60,""
+CONAM Management Corporation,,1425 C Street,San Diego,92101,direct,5342101200,44,4891688,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,7720 Belden Street,San Diego,92111,direct,4204510500,120,0,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,13533 Zinnia Hills Place,San Diego,92130,direct,3050212000,108,14745472,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,2350 Russell Parkway,San Diego,92108,direct,6774202804,1,14412393,,""
+CONAM Management Corporation,,4754 Logan Avenue,San Diego,92113,direct,5476013100,54,6033993,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,567 Canyon Drive,Oceanside,92054,direct,1490401700,70,3527410,Apartment 61+,OCEANSIDE
+CONAM Management Corporation,,4061 Fairmount Avenue,San Diego,92105,direct,4714612700,75,12028481,Apartment 61+,""
+CONAM Management Corporation,,935 Laguna Dr,Carlsbad,92008,direct,2032012900,45,12012488,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,13001 Bowron Road,Poway,92064,direct,3174741000,60,10996853,,POWAY
+CONAM Management Corporation,,8616 Fanita Drive,Santee,92071,direct,3861925100,48,7075775,Apartment 16-60,SANTEE
+CONAM Management Corporation,,1000 Chinquapin Ave,Carlsbad,92008,direct,2060502300,44,7736627,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,3555 Glen Avenue,Carlsbad,92010,direct,1683601112,1,611601,Condo,CARLSBAD
+CONAM Management Corporation,,13250 Civic Center Drive,Poway,92064,direct,3174731800,92,0,Apartment 61+,POWAY
+CONAM Management Corporation,,1821 Escondido Blvd.,Escondido,92025,direct,2362607900,1,3072134,,ESCONDIDO
+CONAM Management Corporation,,3836 Alabama Street,San Diego,92104,direct,4530124700,1,661008,,SAN DIEGO
+CONAM Management Corporation,,6525 Rancho Del Sol Way,San Diego,92130,direct,3052906000,28,4934178,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,,854 Vine Street,Oceanside,92054,direct,1504500100,96,12639840,Apartment 61+,OCEANSIDE
+CONAM Management Corporation,,3412 Beyer Blvd,San Diego,92173,direct,6370211900,1,4366413,,SAN YSIDRO
+CONAM Management Corporation,,7251 Naval Way,San Diego,92126,direct,3415010100,180,32732697,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,,4651 Red Bluff Place,Carlsbad,92010,direct,1683100500,106,11951517,Apartment 61+,CARLSBAD
+CONAM Management Corporation,,301 North Santa Fe Avenue,Vista,92084,direct,2600723400,67,4505498,,ENCINITAS
+CONAM Management Corporation,,1119 Tremont Street,Oceanside,92054,direct,1520150300,17,892245,Apartment 16-60,OCEANSIDE
+CONAM Management Corporation,,9560 Via Zapador,Santee,92071,direct,3840206400,44,5452755,Apartment 16-60,SANTEE
+CONAM Management Corporation,,6847 Potomac Street,San Diego,92139,direct,5822701500,172,34121756,,SAN DIEGO
+CONAM Management Corporation,,12759 Seabreeze Farms Drive,San Diego,92130,direct,3051022400,1,1656126,Single Family,SAN DIEGO
+CONAM Management Corporation,,351 Tamarack Ave,Carlsbad,92008,direct,2060203100,27,5893410,Apartment 16-60,CARLSBAD
+CONAM Management Corporation,,13481 Silver Ivy Lane,San Diego,92129,direct,7602510100,21,2449299,Apartment 16-60,SAN DIEGO
+CONAM Management Corporation,900 F Street,900 F St,San Diego,92101,apartments.com,5343361000,115,21170208,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Elan Avante Apartments,8515 Chloe Ave,La Mesa,91942,apartments.com,4902931500,86,15022946,Apartment 61+,LA MESA
+CONAM Management Corporation,Elan Mesa Lofts,7491 Collins Ave,La Mesa,91942,apartments.com,4640402500,26,4465230,Apartment 16-60,LA MESA
+CONAM Management Corporation,Market Street Village,699 14th St,San Diego,92101,apartments.com,5351441500,230,82022724,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Mission Hills Apartments,4021 Falcon St,San Diego,92103,apartments.com,4444131300,50,13370308,,SAN DIEGO
+CONAM Management Corporation,Modica Family Apartments,5255 Mount Etna Dr,San Diego,92117,apartments.com,3616611200,0,0,,SAN DIEGO
+CONAM Management Corporation,Montecito Point,4179 3rd Ave,San Diego,92103,apartments.com,4445122000,72,22957023,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Naranja Apartments,5256 Naranja St,San Diego,92114,apartments.com,5480511000,138,8162022,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Pacific Cove,4025 Oakcrest Dr,San Diego,92105,apartments.com,4715301100,1,251277,Single Family,SAN DIEGO
+CONAM Management Corporation,Parco,800 B Ave,National City,91950,apartments.com,5372522500,1,127476,Single Family,CORONADO
+CONAM Management Corporation,Park Bonita,3511-3549 Valley Rd,Bonita,91902,apartments.com,5913701900,108,17057592,Apartment 61+,BONITA
+CONAM Management Corporation,Prado Apartments,6304 Rancho Mission Rd,San Diego,92108,apartments.com,4340404200,282,13502295,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Studio 15,1475 Imperial Ave,San Diego,92101,apartments.com,5356210100,275,16122557,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Symphony at Del Sur,16610 Templeton St,San Diego,16610,apartments.com,,,,,
+CONAM Management Corporation,Terraces at La Jolla Village,8861 Villa La Jolla Dr,La Jolla,92037,apartments.com,3442902230,54,28385106,Condo,LA JOLLA
+CONAM Management Corporation,The MINN,1905 Broadway,San Diego,92102,apartments.com,5343710100,91,12617000,Apartment 61+,SAN DIEGO
+CONAM Management Corporation,Vela Apartments,7847 Mission Gorge Rd,Santee,92071,apartments.com,3832610200,113,34722472,Apartment 61+,SANTEE
+CTM Apartment Services,12th Street Lofts,45 E 12th St,National City,91950,apartments.com,5565542203,61,25930553,Condo,NATIONAL CITY
+CTM Apartment Services,801 Pearl Street,801 Pearl St,La Jolla,92037,apartments.com,3506110100,26,11609758,Apartment 16-60,LA JOLLA
+CTM Apartment Services,Alpine Terrace Apartments,1440 Olivewood Ln,Alpine,91901,apartments.com,4033401300,59,4346984,Apartment 16-60,ALPINE
+CTM Apartment Services,Celeste,2901 Nimitz Blvd,San Diego,92106,apartments.com,5307610300,110,11587638,Hotel/Motel,SAN DIEGO
+CTM Apartment Services,Lantana Hills Apartment Homes,5802 University Ave,San Diego,92115,apartments.com,4724704900,1,4457073,,SAN DIEGO
+CTM Apartment Services,Loft2015 Apartments,2015 Hancock St,San Diego,92110,apartments.com,4506130800,85,32493501,Apartment 61+,SAN DIEGO
+CTM Apartment Services,Serra Grove Apartments,3280 Olive St,Lemon Grove,91945,apartments.com,4801040600,64,6412763,Apartment 61+,LEMON GROVE
+CTM Apartment Services,Stone Creek,3865 Main St,Chula Vista,91911,apartments.com,6291302100,1,560758,,CHULA VISTA
+CTM Apartment Services,The Nines Townhomes,1357 W 9th Ave,Escondido,92029,apartments.com,2350720400,22,4312736,Apartment 16-60,ESCONDIDO
+CTM Apartment Services,Union Apartments,245 Bonita Glen Dr,Chula Vista,91910,apartments.com,,,,,
+CTM Apartment Services,Villa Knolls Apartments,5365-5465 Marengo Ave,La Mesa,91942,apartments.com,4640502600,12,1072144,Apartment 16-60,LA MESA
+Cal-American Real Estate Management,Gramercy Apartments,9054-9096 Gramercy Dr,San Diego,92123,apartments.com,4290100600,183,12034001,Apartment 61+,SAN DIEGO
+Cannon Management,Creekside Villas Apartments,220-290 47th St,San Diego,92102,apartments.com,5473131800,128,7940514,Apartment 61+,SAN DIEGO
+Cannon Management,Haven at La Mesa,8585 La Mesa Blvd,La Mesa,91942,apartments.com,4941922800,1,975554,,LA MESA
+"Cardinal Group Management and Advisory, LLC",Cerca Student Housing,5716 Hardy Ave,San Diego,92115,apartments.com,4660505800,17,13740478,Apartment 16-60,SAN DIEGO
+"Cardinal Group Management and Advisory, LLC",Prisma Student Housing,5541 Lindo Paseo,San Diego,92115,apartments.com,4660400300,8,6693108,Apartment 5-15,SAN DIEGO
+"Cardinal Group Management and Advisory, LLC",Victory on Paseo,5505 Lindo Paseo,San Diego,92115,apartments.com,4660402400,1,13083030,,SAN DIEGO
+"Cardinal Group Management and Advisory, LLC",Zuma Student Housing,6237 Montezuma Rd,San Diego,92115,apartments.com,4671713100,24,9956659,Apartment 16-60,SAN DIEGO
+"Cirrus Asset Management, Inc.",Spring Villas,8760 Jamacha Rd,San Diego,91977,apartments.com,5781721200,136,33796273,Apartment 61+,SPRING VALLEY
+Decron Properties,The Margo,201 Del Sol Dr,San Diego,92108,apartments.com,4372605200,240,126541200,Apartment 61+,""
+Delta Property Management,Anniversary Apartments,377 Shady Ln,El Cajon,92021,apartments.com,4891622300,64,2974307,Apartment 61+,EL CAJON
+Delta Property Management,Chateau Du Val Apartments,404 S Anza St,El Cajon,92020,apartments.com,4882624900,47,2888323,Apartment 16-60,EL CAJON
+Delta Property Management,El Capitan Apartments,12439-12445 Julian Ave,Lakeside,12439,apartments.com,3942600900,37,1196686,Apartment 16-60,LAKESIDE
+Delta Property Management,Foxwood - 30 Day Rentals!,4260 Palm Ave,San Diego,92154,apartments.com,6312600100,131,5918316,Apartment 61+,SAN DIEGO
+Delta Property Management,La Quinta Apartment,1515 E Washington Ave,El Cajon,92019,apartments.com,5112904300,58,1053512,Apartment 16-60,EL CAJON
+Delta Property Management,Majestic Apartments - ALL UTILITIES INCLUDED,505 W Madison Ave,El Cajon,92020,apartments.com,4833101832,26,6057367,Condo,EL CAJON
+Delta Property Management,Ranchouse Apartments *$500 Off*,1233 E Madison Ave,El Cajon,92021,apartments.com,4891612500,35,1041960,Apartment 16-60,EL CAJON
+Delta Property Management,Royal Oakdale Apartments,1430-1436 Oakdale Ave,El Cajon,92021,apartments.com,5110121800,37,873292,Apartment 16-60,EL CAJON
+Delta Property Management,Villa Capri Apartment *$500 Off*,233 Shady Ln,El Cajon,92021,apartments.com,4891621200,59,14071617,Apartment 16-60,EL CAJON
+Delta Property Management,Woodlawn West Apartments,285-293 Woodlawn Ave,Chula Vista,91910,apartments.com,5670324400,117,21036678,Apartment 61+,CHULA VISTA
+Dinerstein,Atlas Alvarado,6535 Alvarado Rd,San Diego,92120,apartments.com,4635903200,339,56006000,Apartment 61+,SAN DIEGO
+Dinerstein,The Townsend,5075 Camino De La Siesta,San Diego,92108,apartments.com,4380204500,1,22189858,,SAN DIEGO
+Domain Capital Group,Mira Bella Apartments,3455 Kearny Villa Rd,San Diego,92123,apartments.com,4213202300,289,132969868,Apartment 61+,SAN DIEGO
+Equity Residential,Carmel Terrace,11540 Windcrest Ln,San Diego,11540,apartments.com,3130411000,384,31578968,Apartment 61+,SAN DIEGO
+Equity Residential,Deerwood,15640 Bernardo Center Dr,San Diego,15640,apartments.com,,,,,
+Equity Residential,Del Mar Ridge,12629 El Camino Real,San Diego,12629,apartments.com,3074000700,180,57441747,Apartment 61+,SAN DIEGO
+Equity Residential,Montierra,9904 Kika Ct,San Diego,92129,apartments.com,3155521200,272,54849557,Apartment 61+,SAN DIEGO
+Equity Residential,Ridgewood Village,12435 Heatherton Ct,San Diego,12435,apartments.com,,,,,
+Essex,Alpine Village,2055 Arnold Way,Alpine,91901,apartments.com,4034000100,300,41085140,Apartment 61+,ALPINE
+Essex,Cambridge Park,3394 Daley Center Dr,San Diego,92123,apartments.com,4296600100,160,50137812,Apartment 61+,SAN DIEGO
+Essex,Carmel Creek,11724 Carmel Creek Rd,San Diego,11724,apartments.com,3070510600,348,120134630,Apartment 61+,SAN DIEGO
+Essex,Carmel Landing,11505 Windcrest Ln,San Diego,11505,apartments.com,3130410800,356,96230289,Apartment 61+,SAN DIEGO
+Essex,CentrePointe,6540 Friars Rd,San Diego,92108,apartments.com,,,,,
+Essex,Esplanade,10201 Camino Ruiz,San Diego,10201,apartments.com,,,,,
+Essex,LIVIA at Scripps Ranch,10380 Spring Canyon Rd,San Diego,10380,apartments.com,7601476902,264,95582477,Apartment 16-60,SAN DIEGO
+Essex,Mira Monte,10360 Maya Linda Rd,San Diego,10360,apartments.com,,,,,
+Essex,Montanosa,11012 Camino Playa Carmel,San Diego,11012,apartments.com,3734900300,184,53325057,Apartment 61+,SAN DIEGO
+Essex,Pinnacle at Otay Ranch,1310 Santa Rita Dr E,Chula Vista,91913,apartments.com,6425601400,204,51336951,Apartment 61+,CHULA VISTA
+Essex,Summit Park Village,8563 Lake Murray Blvd,San Diego,92119,apartments.com,4855902000,236,35194727,Apartment 61+,SAN DIEGO
+F&F Income Properties,"1239-1247 Robinson Ave, San Diego, CA 92103",1239-1247 Robinson Ave,El Cajon,92019,apartments.com,4521613401,6,2451384,Condo,SAN DIEGO
+F&F Income Properties,Latte of Escondido,1580 S Juniper St,Escondido,92025,apartments.com,2343905500,49,14467982,Apartment 16-60,ESCONDIDO
+F&F Income Properties,Le Jaime,4820-4860 Clairemont Mesa Blvd,San Diego,92117,apartments.com,3555220200,19,7096828,Apartment 16-60,SAN DIEGO
+F&F Income Properties,Sunnyside,812 12th St,Imperial Beach,91932,apartments.com,6263321900,18,4644546,Apartment 16-60,IMPERIAL BEACH
+F&F Income Properties,The Addison,10267 Mast Blvd,Santee,10267,apartments.com,3810322700,47,8316574,Apartment 16-60,SANTEE
+F&F Income Properties,The Adelaide,1311 4th Ave,Chula Vista,91911,apartments.com,6192901100,33,10349940,Apartment 16-60,CHULA VISTA
+F&F Income Properties,The Belmont,4812 70th St,San Diego,92115,apartments.com,4682823600,25,4261665,Apartment 16-60,SAN DIEGO
+F&F Income Properties,The Crest,1031 Imperial Beach Blvd,Imperial Beach,91932,apartments.com,6321304500,64,19713442,Apartment 61+,IMPERIAL BEACH
+F&F Income Properties,The Irving,1010 33rd St,San Diego,92102,apartments.com,5395630300,32,9223186,Apartment 16-60,SAN DIEGO
+F&F Income Properties,The Mayer @PB,2330 Grand Ave,San Diego,92109,apartments.com,4240702400,39,17426700,Apartment 16-60,SAN DIEGO
+F&F Income Properties,The Noa,152-164 Garrett Ave,Chula Vista,91910,apartments.com,5661901200,6,1276640,Apartment 5-15,CHULA VISTA
+F&F Income Properties,The Pointe  Apartments,4747-4751 Jessie Ave,La Mesa,91942,apartments.com,4692821300,24,5406556,Apartment 16-60,LA MESA
+FLATS,The Nash,4135 Park Blvd,San Diego,92103,apartments.com,4455011000,0,779350,,SAN DIEGO
+FairGrove Property Management,2855 A St,2855-2865 A St,San Diego,92102,apartments.com,5394601400,14,1616901,Apartment 5-15,SAN DIEGO
+FairGrove Property Management,Alva Gardens,345 K St,Chula Vista,91911,apartments.com,5733204600,65,14403452,Apartment 61+,CHULA VISTA
+FairGrove Property Management,Auburn 2019,4960-4970 Auburn Dr,San Diego,92105,apartments.com,4717921700,45,8215550,Apartment 16-60,SAN DIEGO
+FairGrove Property Management,Casa Serena,6455 Shaules Ave,San Diego,92114,apartments.com,5491531200,1,46596,Single Family,SAN DIEGO
+FairGrove Property Management,Country Apartments,1486 Broadway,Chula Vista,91911,apartments.com,6220913800,60,10447008,Apartment 16-60,CHULA VISTA
+FairGrove Property Management,La Privada Valle Poway,13312 Community Rd,Poway,13312,apartments.com,3171013900,44,6348594,Apartment 16-60,POWAY
+FairGrove Property Management,Oro Vista Apartments,1767 Oro Vista Rd,San Diego,92154,apartments.com,6341902700,0,2163322,,SAN DIEGO
+FairGrove Property Management,Royal Village Apartments,1435-1467 Elder Ave,San Diego,92154,apartments.com,6272406100,72,15073847,Apartment 61+,SAN DIEGO
+FairGrove Property Management,Summer Brook Apartments,1587 Oro Vista Rd,San Diego,92154,apartments.com,6341901900,0,1003898,,SAN DIEGO
+FairGrove Property Management,The Highlands,8603-8633 Lemon Ave,La Mesa,91941,apartments.com,4943402400,61,7528233,Apartment 61+,LA MESA
+FairGrove Property Management,University Gardens,5622 University Ave,San Diego,92105,apartments.com,4724301000,40,4099747,Apartment 16-60,SAN DIEGO
+FairGrove Property Management,Villa Hermosa Apartments,314 Willie James Jones Ave,San Diego,92102,apartments.com,5481302900,31,5570807,Apartment 16-60,SAN DIEGO
+FairGrove Property Management,Villa Marina,652 Moss St,Chula Vista,91911,apartments.com,6180103000,175,41432916,Apartment 61+,CHULA VISTA
+FairGrove Property Management,Welcome to Pacific Point!,768 Hollister St,San Diego,92154,apartments.com,6280605300,1,4045340,,SAN DIEGO
+Fairfield,Bevel Apartments,3250 Barnett Ave,San Diego,92110,apartments.com,,,,,
+Fairfield,Bowen Apartments,3280 Barnett Ave,San Diego,92110,apartments.com,,,,,
+Fairfield,Canyon Rim Apartments,10845 Via Los Narcisos,San Diego,10845,apartments.com,3130302100,504,153705366,Apartment 61+,SAN DIEGO
+Fairfield,Idea1 Apartments,899 Park Blvd,San Diego,92101,apartments.com,7602149500,295,121932798,,SAN DIEGO
+Fairfield,Il Palazzo Apartments,2040 Columbia St,San Diego,92101,apartments.com,5332221107,108,49087899,Condo,SAN DIEGO
+Fairfield,Rivair Apartment Homes,7050 Friars Rd,San Diego,92108,apartments.com,4372503100,316,64216820,Apartment 61+,""
+Fairfield,The Seaton Apartments,1302 Frankfort St,San Diego,92110,apartments.com,4360204800,150,65949940,Apartment 61+,""
+Fairfield,The Stratton Apartment Homes,3884 Caminito Aguilar,San Diego,92111,apartments.com,4197002600,312,30793642,Apartment 61+,SAN DIEGO
+Fairfield,West Village Poway Apartments,12849 Poway Rd,Poway,12849,apartments.com,,,,,
+Gables Residential,Gables Point Loma,3801-3811 Marquette Pl,San Diego,92106,apartments.com,4412501800,63,12078591,Apartment 61+,SAN DIEGO
+Garden Communities California,Casa Mira View Apartments,9800 Mira Lee Way,San Diego,92126,apartments.com,3184103500,225,90996810,Apartment 61+,SAN DIEGO
+Garden Communities California,Costa Verde Village Apartments,8720 Costa Verde Blvd,San Diego,92122,apartments.com,3452101900,650,118485851,Apartment 61+,SAN DIEGO
+Garden Communities California,Garden at 3Roots,7918 Collective Way,San Diego,92126,apartments.com,3415010200,215,75345768,Apartment 61+,""
+Garden Communities California,La Jolla Crossroads Apartments,9085 Judicial Dr,San Diego,92122,apartments.com,3452400700,207,70356021,Apartment 61+,SAN DIEGO
+Garden Communities California,Torrey Gardens Apartments,10615 Calle Mar de Mariposa,San Diego,10615,apartments.com,3077800100,199,86627407,Apartment 61+,SAN DIEGO
+Garden Communities California,Towers at Costa Verde Apartments,8775 Costa Verde Blvd,San Diego,92122,apartments.com,3452101700,590,177664399,Apartment 61+,SAN DIEGO
+Garden Homes,La Regencia Apartments,7655-7689 Palmilla Dr,San Diego,92122,apartments.com,3471312800,266,41494567,Apartment 61+,SAN DIEGO
+Garden Homes,The Jewel at LUX,4200 Brooke Ct,San Diego,92122,apartments.com,,,,,
+Good Life Property Management,,3840 Elijah Court Unit 826,San Diego,92130,direct,3070223405,22,13035045,Condo,SAN DIEGO
+Good Life Property Management,,5805 Friars Rd Unit 2101,San Diego,92110,direct,4366112503,68,29148649,Condo,SAN DIEGO
+Good Life Property Management,,800 Seacliff Way Unit 803,Oceanside,92056,direct,,,,,
+Good Life Property Management,,2850 Reynard Way Unit 6,San Diego,92103,direct,4516721804,35,11507845,Condo,SAN DIEGO
+Good Life Property Management,,1435 Robin Ln,El Cajon,92020,direct,4824300626,1,361617,Condo,EL CAJON
+Good Life Property Management,,2526 Meadow Ln,Escondido,92027,direct,2316510800,1,728278,Single Family,ESCONDIDO
+Good Life Property Management,,17016 Matinal Road,San Diego,92127,direct,2736001900,1,573038,Single Family,SAN DIEGO
+Good Life Property Management,,12825 Margate Ave,Poway,92064,direct,3233940600,1,474087,Single Family,POWAY
+Good Life Property Management,,7280 Annapolis Ave,La Mesa,91942,direct,4695603100,1,578078,Single Family,LA MESA
+Good Life Property Management,,115 W Montecito Way,San Diego,92103,direct,4445041503,1,930887,Condo,SAN DIEGO
+Good Life Property Management,,6656 Cleo Street,San Diego,92115,direct,4632712400,1,801211,Single Family,SAN DIEGO
+Good Life Property Management,,300 W Beech St Unit 1907,San Diego,92101,direct,5333411551,231,151878891,Condo,SAN DIEGO
+Good Life Property Management,,3535 Madison Ave Unit 222,San Diego,92116,direct,4470307634,88,29637803,Condo,SAN DIEGO
+Good Life Property Management,,507 Lark Way,Imperial Beach,91932,direct,6251405204,1,546598,Condo,""
+Good Life Property Management,,425 W Beech St Unit 710,San Diego,92101,direct,5333332023,382,197554721,Condo,SAN DIEGO
+Good Life Property Management,,4205 Ohio St Unit 306,San Diego,92104,direct,4462532006,30,13680044,Condo,SAN DIEGO
+Good Life Property Management,,10742 Escobar Dr,San Diego,92124,direct,3732512100,1,623570,Single Family,SAN DIEGO
+Good Life Property Management,,1278 E Madison Ave Unit C,El Cajon,92021,direct,4893101119,4,1633325,Condo,EL CAJON
+Good Life Property Management,,13431 Sawtooth Rd,San Diego,92129,direct,3153520500,1,356845,Single Family,SAN DIEGO
+Good Life Property Management,,1839 Arroyo Willow Ln,Carlsbad,92011,direct,2150508209,1,621814,Condo,CARLSBAD
+Good Life Property Management,,10865 Deering Street,San Diego,92126,direct,3112732200,1,318242,Single Family,SAN DIEGO
+Good Life Property Management,,266 Aspenwood Ln,Encinitas,92024,direct,2571102734,1,155351,Condo,ENCINITAS
+Good Life Property Management,,355 Patten St,San Diego,92114,direct,5493621100,1,185028,Single Family,SAN DIEGO
+Good Life Property Management,,12017 Caminito Campana,San Diego,92128,direct,2731901026,1,567190,Condo,SAN DIEGO
+Good Life Property Management,,4857 Collwood Blvd Unit B,San Diego,92115,direct,4662601853,2,781856,Condo,SAN DIEGO
+Good Life Property Management,,8459 Wenatchee Ave,El Cajon,92021,direct,3884903600,1,851045,Single Family,EL CAJON
+Greystar,222 North City,222 North City Drive,San Marcos,92096,direct,2211110300,463,27226375,Apartment 61+,""
+Greystar,2911 Adams,2911 Adams Ave,San Diego,92116,apartments.com,4460240200,0,1841508,,SAN DIEGO
+Greystar,3167 Market,3167 Market St,San Diego,92102,apartments.com,5451221100,34,9170004,Apartment 16-60,SAN DIEGO
+Greystar,525 Olive,525 Olive St,San Diego,92103,apartments.com,4527131706,4,6299067,,SAN DIEGO
+Greystar,625 Broadway,625 Broadway,San Diego,92101,apartments.com,5343210600,231,19945428,,SAN DIEGO
+Greystar,64 Forty,6440 El Cajon Blvd,San Diego,92115,apartments.com,4673500100,324,17093798,Apartment 61+,SAN DIEGO
+Greystar,AV8 Little Italy,2155 Kettner Blvd,San Diego,92101,apartments.com,5331240200,0,4686930,,SAN DIEGO
+Greystar,AZUL North Park,4499 Ohio St,San Diego,92116,apartments.com,4460531800,6,716473,Apartment 5-15,SAN DIEGO
+Greystar,Adagio,5427 Lake Murray Blvd,La Mesa,91942,apartments.com,4640402700,4,580117,Multifamily 2-4,LA MESA
+Greystar,Alcove,650 North Centre City Pkwy,Escondido,92025,direct,,,,,
+Greystar,Alexan Camellia,4888 Convoy St,San Diego,92111,apartments.com,3561106300,531,83885789,Apartment 61+,""
+Greystar,Alexan Gallerie,375 Camino De La Reina,San Diego,92108,apartments.com,4372603800,284,168888046,Apartment 61+,SAN DIEGO
+Greystar,Alta O'side,1001 N Coast Hwy,Oceanside,92054,direct,1520110100,1,615705,,OCEANSIDE
+Greystar,Altura,11921 Carmel Creek Rd,San Diego,11921,apartments.com,3077900100,89,44673274,Apartment 61+,""
+Greystar,Ancora,110 Beech St,San Diego,92101,apartments.com,5333630500,221,28520396,Apartment 61+,""
+Greystar,Anden,152 North Twin Oaks Valley Road #106,San Marcos,92069,direct,7601679701,2,17246548,,SAN MARCOS
+Greystar,Array La Mesa,4949 Baltimore Dr,La Mesa,91942,apartments.com,4702301700,230,92561241,Apartment 61+,LA MESA
+Greystar,Artisan at the Village of Escaya,1151 Encanto Loop,Chula Vista,91913,apartments.com,,,,,
+Greystar,Ascend2300,2300 Rising Glen Wy.,Carlsbad,92008,direct,,,,,
+Greystar,Ascent at Campus Life,9890 Graduate Driveway,San Diego,92131,apartments.com,,,,,
+Greystar,Avino,5040 Camino San Fermin,San Diego,92130,apartments.com,3050315200,278,122589969,Apartment 61+,""
+Greystar,Axiom La Jolla,3950 Mahaila Ave,San Diego,92122,apartments.com,,,,,
+Greystar,Azul Chula Vista,310 K St,Chula Vista,91911,apartments.com,5734504100,50,8926611,Apartment 16-60,CHULA VISTA
+Greystar,Bella Terra,365 Pomelo Dr.,Vista,92081,direct,1664402400,460,89408068,Apartment 61+,VISTA
+Greystar,Boardwalk at Millenia,1660 Metro Ave.,Chula Vista,91915,direct,6430605600,149,68226352,,""
+Greystar,Broadstone Mission Valley,1908 Hotel Cir N,San Diego,92108,apartments.com,4430403900,192,0,Hotel/Motel,SAN DIEGO
+Greystar,Casoleil,1100 Dennery Rd,San Diego,92154,apartments.com,,,,,
+Greystar,Central Park,5636 Amaya Dr,La Mesa,91942,apartments.com,4906700901,16,4483492,Condo,LA MESA
+Greystar,Cielo,915 W Grape St,San Diego,92101,apartments.com,5332131900,70,29073724,Apartment 61+,SAN DIEGO
+Greystar,City View,840 17th St,San Diego,92101,apartments.com,5343602100,122,9502438,Apartment 61+,SAN DIEGO
+Greystar,Denizen,3840 6th Ave,San Diego,92103,apartments.com,4520563400,151,75944983,,SAN DIEGO
+Greystar,Diega,702 Broadway,San Diego,92101,apartments.com,5341850402,618,384966090,,SAN DIEGO
+Greystar,Eighteen Ten State St,1810 State St,San Diego,92101,apartments.com,5332411300,99,49000000,Apartment 61+,SAN DIEGO
+Greystar,Elowen,8555 Aero Dr,San Diego,92123,apartments.com,4210501200,302,34392600,Apartment 61+,SAN DIEGO
+Greystar,Entrada,453 13th St,San Diego,92101,apartments.com,5351550200,172,50756861,,SAN DIEGO
+Greystar,Flower Fields Apartments,2666 Flower Fields Way,Carlsbad,92010,direct,1670308000,132,39935077,Apartment 61+,CARLSBAD
+Greystar,Folia,12520 Camino del Sur,San Diego,12520,apartments.com,3064201200,342,139749346,Apartment 61+,""
+Greystar,GEMA,1471 8th Ave,San Diego,92101,apartments.com,5340410100,1,2546898,,SAN DIEGO
+Greystar,Gravity,4560 Mission Gorge Pl,San Diego,92120,apartments.com,4612101300,325,188364420,Apartment 61+,""
+Greystar,Greenfield Village,5540 Ocean Gate Ln,San Diego,92154,apartments.com,6453900100,328,92978231,Apartment 61+,SAN DIEGO
+Greystar,Haven76,2412-2424 S Escondido Blvd,Escondido,92025,apartments.com,2381414400,76,0,Apartment 61+,ESCONDIDO
+Greystar,Iconic on Alvarado: Off-Campus Student Housing,6625 Alvarado Rd,San Diego,92120,apartments.com,4635902900,1,0,,SAN DIEGO
+Greystar,Ironwood,2240 Ironwood Cir,San Diego,92154,apartments.com,,,,,
+Greystar,Jefferson at Carmel Mountain Ranch,11832 Stoney Peak Dr,San Diego,11832,apartments.com,,,,,
+Greystar,K1 Apartments,330 13th St,San Diego,92101,apartments.com,5353710800,0,1790491,,SAN DIEGO
+Greystar,Lakeview 88 Apartments,2758 Lake Pointe Drive,San Diego,91977,direct,5056721700,88,31116088,Apartment 61+,SPRING VALLEY
+Greystar,Latitude33,515 Meander Glen,Escondido,92025,direct,7602464400,198,62672821,Apartment 61+,ESCONDIDO
+Greystar,Legacy,9320 Hillery Dr,San Diego,92126,apartments.com,3186001900,412,112762561,Apartment 61+,SAN DIEGO
+Greystar,Lucia at Aviara,1205 Aviara Parkway,Carlsbad,92011,direct,2120407500,259,59448400,Apartment 61+,""
+Greystar,Luminary at Cota Vera,6000 Luminary Dr,Chula Vista,91913,apartments.com,,,,,
+Greystar,Madera Ridge Apartments,1051 West El Norte Pkwy,Escondido,92026,direct,2263505200,236,89080797,Apartment 61+,ESCONDIDO
+Greystar,Marlowe Palomar Heights,"101 Chamomile Glen, Unit 100",Escondido,92025,direct,,,,,
+Greystar,Mason,2451 Mason Dr,San Diego,92154,apartments.com,,,,,
+Greystar,Metro Mission Valley,5080 Camino Del Arroyo,San Diego,92108,apartments.com,,,,,
+Greystar,Missions at Sunbow Apartments,825 E Palomar St,Chula Vista,91911,apartments.com,6411220700,336,110151319,Apartment 61+,CHULA VISTA
+Greystar,MoDE,635 Robinson Ave,San Diego,92103,apartments.com,4521036600,111,69805409,Apartment 61+,""
+Greystar,Navajo Bluffs,6575 Jaffe Ct,San Diego,92119,apartments.com,,,,,
+Greystar,Ocean Air,10500 Sea Pearl Cv,San Diego,10500,apartments.com,3077800400,100,62477038,Apartment 16-60,SAN DIEGO
+Greystar,Ocean Breeze,561 W San Ysidro Blvd,San Diego,92173,apartments.com,6662006600,0,576028,,SAN YSIDRO
+Greystar,One Paseo Living,3200 Paseo Village Way,San Diego,92130,apartments.com,3040706400,608,286226753,Apartment 61+,""
+Greystar,Overlook at Bernardo Heights,15909 Avenida Venusto,San Diego,92128,direct,3134210300,330,130143889,Apartment 61+,SAN DIEGO
+Greystar,Overture San Marcos,852 Avenida Ricardo,San Marcos,92069,direct,2261112500,151,43527114,Apartment 61+,SAN MARCOS
+Greystar,Palisade at Westfield UTC,8800 Lombard Pl,San Diego,92122,apartments.com,3450910100,300,205850994,Apartment 61+,""
+Greystar,Palmera,1225 Broadway,Chula Vista,91911,apartments.com,6182901200,154,28560000,Apartment 61+,CHULA VISTA
+Greystar,Palomar Station,1257 Armorlite Dr.,San Marcos,92069,direct,2191636501,10,2174631,Multifamily 2-4,SAN MARCOS
+Greystar,Parc One,320 Town Center Pky,Santee,92071,apartments.com,3810507500,172,65372323,Apartment 61+,SANTEE
+Greystar,Park Pointe Apartments,2450 Hilton Head Pl.,El Cajon,92019,direct,5182111100,352,98018449,Apartment 61+,EL CAJON
+Greystar,Park Summit,555 Upas St,San Diego,92103,apartments.com,4525550600,12,1947026,Apartment 5-15,SAN DIEGO
+Greystar,Persea,1333 N. Santa Fe Ave.,Vista,92084,direct,1730804000,305,118174009,Apartment 61+,VISTA
+Greystar,Pierside,260 Mission Avenue,Oceanside,92054,direct,1473700300,66,32686302,Apartment 61+,OCEANSIDE
+Greystar,Pierside South Apartments,115 N. Cleveland Street,Oceanside,92054,direct,,,,,
+Greystar,Regents Court,8465 Regents Rd,San Diego,92122,apartments.com,3450724800,251,70896395,Apartment 61+,SAN DIEGO
+Greystar,Regents La Jolla,9253 Regents Rd,La Jolla,92037,apartments.com,3451614132,44,25767136,Condo,LA JOLLA
+Greystar,RiverEdge Terrace*,4805 Wind Surf Way,San Diego,92154,apartments.com,6454000100,202,59474055,Apartment 61+,SAN DIEGO
+Greystar,Rivue,1902 Millenia Ave,Chula Vista,91915,apartments.com,6430609200,253,86601352,Apartment 61+,""
+Greystar,Rolling Hills Gardens Apartments,2290 Mackenzie Creek Road,Chula Vista,91914,direct,5955700300,0,0,,CHULA VISTA
+Greystar,Rosina Vista,1551 Summerland St.,Chula Vista,91913,direct,,,,,
+Greystar,Rowan,700 W Grand Ave,Escondido,92025,direct,7602464600,126,45589495,Apartment 61+,ESCONDIDO
+Greystar,Rowyn,3775 Sixth Ave,San Diego,92103,apartments.com,4521030900,0,2440778,,SAN DIEGO
+Greystar,SETA,7346 Parkway Dr,La Mesa,91942,apartments.com,4644801400,198,80718754,Apartment 61+,LA MESA
+Greystar,Salerno,1630 Paseo Monti,Chula Vista,91913,apartments.com,,,,,
+Greystar,Santee Villas,10445 Mast Blvd.,Santee,92071,direct,3812003700,256,34834956,Apartment 61+,SANTEE
+Greystar,Sereno,930 Third Ave,Chula Vista,91911,apartments.com,6190100400,0,483575,,CHULA VISTA
+Greystar,Shadowridge Woodbend,1500 Shadowridge Dr.,Vista,92081,direct,2174601100,240,55316763,Apartment 61+,VISTA
+Greystar,Signature Point,13006 Signature Point Pt,San Diego,13006,apartments.com,,,,,
+Greystar,Silo,7231 Colchester Ct,San Diego,92154,apartments.com,6461023300,160,54975271,Apartment 61+,SAN DIEGO
+Greystar,Softwind Point,881 Soft Wind Rd,Vista,92081,direct,1661504200,260,28132985,Apartment 61+,VISTA
+Greystar,Sola at Pacific Highlands Ranch,13385 Highlands Pl,San Diego,13385,apartments.com,3052503300,139,57758608,Apartment 61+,""
+Greystar,Solana at Grand,1501 East Grand Avenue,Escondido,92027,direct,2303911600,1038,120155275,Apartment 61+,ESCONDIDO
+Greystar,Stanza Little Italy,310 A St,San Diego,92101,apartments.com,5334431100,270,150694548,Apartment 61+,""
+Greystar,Stirling at Cota Vera,2045 Paseo Belluno,Chula Vista,91913,apartments.com,,,,,
+Greystar,Stone Arbor,612 Los Arbolitos Blvd,Oceanside,92054,direct,1581905600,89,31606774,Condo,OCEANSIDE
+Greystar,Sunbow Villas,750 Paso De Luz,Chula Vista,91911,direct,6400704366,2,355126,Condo,CHULA VISTA
+Greystar,Tavera,1465 Santa Victoria Rd.,Chula Vista,91913,direct,6443102403,3,1374292,Condo,CHULA VISTA
+Greystar,Tenney,2260 El Cajon Blvd,San Diego,92104,apartments.com,4453321700,125,26378025,Condo,SAN DIEGO
+Greystar,Tenth&amp;G,707 10th Ave,San Diego,92101,apartments.com,5351320500,1,79817199,,SAN DIEGO
+Greystar,Teresina,1250 Santa Cora Avenue,Chula Vista,91913,direct,6420800300,240,63907745,Apartment 61+,CHULA VISTA
+Greystar,Terra Vista,1441 Santa Lucia Rd.,Chula Vista,91913,direct,6420736404,168,38306463,Condo,CHULA VISTA
+Greystar,The Casas,10802-B Camino Ruiz,San Diego,10802,apartments.com,3111901900,68,11617422,Apartment 61+,SAN DIEGO
+Greystar,The District Apartments,8727 Fletcher Pky,La Mesa,91942,apartments.com,4902702400,1,9257369,,LA MESA
+Greystar,The Landing at Ocean View Hills,455 Dennery Rd,San Diego,92154,apartments.com,6451612900,216,42595761,Apartment 61+,SAN DIEGO
+Greystar,The Lindley,1331 Columbia St,San Diego,92101,apartments.com,5334020300,422,227597528,Apartment 61+,""
+Greystar,The Lofts at Carlsbad Village,1040 Carlsbad Village Dr,Carlsbad,92008,direct,2033204900,106,36462840,,""
+Greystar,The Missions at Rio Vista,2242-2282 Gill Village Way,San Diego,92108,apartments.com,4383612001,16,4918763,Condo,SAN DIEGO
+Greystar,The Missions at Rio Vista,2242 Gill Village Wy. (Station Village Wy),San Diego,92108,direct,,,,,
+Greystar,The Residences at Cota Vera,1575 Camino Altezza,Chula Vista,91913,apartments.com,6440710900,196,58091780,Apartment 61+,CHULA VISTA
+Greystar,The Wyatt Makers Quarter,1509 Broadway,San Diego,92101,apartments.com,5343520100,368,144588404,,SAN DIEGO
+Greystar,Triton Encinitas,1967 N Vulcan,Encinitas,92024,direct,2160520100,72,31796856,Apartment 61+,ENCINITAS
+Greystar,Union Grantville,4520 Alvarado Canyon Rd,San Diego,92120,apartments.com,4613303400,0,5090908,,SAN DIEGO
+Greystar,Valentina by Alta,1919 Pacific Hwy,San Diego,92101,apartments.com,1532502600,1,3725729,Single Family,OCEANSIDE
+Greystar,Village Square Apartments,8683 Via Mallorca Via,La Jolla,92037,apartments.com,3468020445,8,2334864,Condo,LA JOLLA
+Greystar,Vista Lane,1440 2nd Avenue,Chula Vista,91911,direct,6230606400,150,37943964,Apartment 61+,CHULA VISTA
+Greystar,Vora Mission Valley,4440 Twain Ave,San Diego,92120,apartments.com,4612205100,374,157430414,Apartment 61+,""
+Greystar,Whispering Oaks Apartments,468 North Twin Oaks Valley Road,San Marcos,92069,direct,2200502600,1,141789,,SAN MARCOS
+Griffis Residential,Griffis East Village,688 13th St,San Diego,92101,apartments.com,5351460700,208,78913102,,SAN DIEGO
+Griffis Residential,Griffis Mission Valley,1440 Hotel Cir N,San Diego,92108,apartments.com,4373601100,350,168155834,Apartment 61+,SAN DIEGO
+H.G. Fenton Company,AMP30,4555 30th St,San Diego,92116,apartments.com,4460332600,1,1724462,,SAN DIEGO
+H.G. Fenton Company,Evoc Hillcrest,3935 Normal St,San Diego,92103,apartments.com,4456411400,82,31770840,,SAN DIEGO
+H.G. Fenton Company,RIVA,701 S Nardo Ave,Solana Beach,92075,apartments.com,2583500100,1,66235,Single Family,ENCINITAS
+H.G. Fenton Company,River Front Rental Condominiums,710-790 Camino De La Reina,San Diego,92108,apartments.com,4380205400,229,52739958,Apartment 61+,SAN DIEGO
+H.G. Fenton Company,Urbana Rental Flats,450 10th Ave,San Diego,92101,apartments.com,5351261200,96,29610181,,SAN DIEGO
+H.G. Fenton Company,Vici Luxury Apartments,550 W Date St,San Diego,92101,apartments.com,5333510100,1,4125274,,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",Alderwood,1121 4th St,Chula Vista,91911,apartments.com,6191104700,70,3019203,Apartment 16-60,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",Arbors Apartments,9700 Magnolia Park Dr,Santee,92071,apartments.com,3811902500,154,23946912,Apartment 61+,SANTEE
+"Hanken Cono Assad & Co., Inc.",Aztec Campus Apartments *Parking Included*,5650 Hardy Ave,San Diego,92115,apartments.com,4660310800,24,2790537,Apartment 16-60,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",Dorchester STOP IN FOR MOVE IN BONUS!,6595 Montezuma Rd,San Diego,92115,apartments.com,4673601700,55,2059480,Apartment 16-60,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",Greenbrier Apartments,550-580 Moss St,Chula Vista,91911,apartments.com,6180623900,100,16264570,Apartment 61+,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",Malibu South Apartments,1151 4th Ave,Chula Vista,91911,apartments.com,6191100900,140,24404093,Apartment 61+,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",Park View Apartments,350-360 Oxford St,Chula Vista,91911,apartments.com,6191103500,37,5491678,Apartment 16-60,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",Seawind Apartments,1067 Fourth Ave,Chula Vista,91911,apartments.com,6190506200,196,18246512,Apartment 61+,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",The Penthouse Apartments MOVE IN BONUS,6560 Montezuma Rd,San Diego,92115,apartments.com,4672502800,80,3196352,Apartment 61+,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",The Plaza Apartments MOVE IN BONUS!*,6150 El Cajon Blvd,San Diego,92115,apartments.com,4674204200,105,8346460,Apartment 61+,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",The Village,2314 Servando Ave,San Diego,92154,apartments.com,6370410500,144,16368156,Apartment 61+,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",Vista Hermosa,1045-1051 4th Ave,Chula Vista,91911,apartments.com,6190513000,70,15619019,Apartment 61+,CHULA VISTA
+"Hanken Cono Assad & Co., Inc.",Wintergreen,1454-1524 Oro Vista Rd,San Diego,92154,apartments.com,6340705800,184,15903106,Apartment 61+,SAN DIEGO
+"Hanken Cono Assad & Co., Inc.",Woodland Hills,295 C St,Chula Vista,91910,apartments.com,5633010500,60,7986313,Apartment 16-60,CHULA VISTA
+Hoban Property  Management,Country Gardens,1551 Montecito Rd,Ramona,92065,apartments.com,2811002600,40,8951712,Apartment 16-60,RAMONA
+Hoban Property  Management,Greenfield Meadows,992-1000 Greenfield Dr,El Cajon,92021,apartments.com,4840116100,71,9246923,Apartment 61+,EL CAJON
+Hoban Property  Management,Greentree Apartments,182 Orlando St,El Cajon,92021,apartments.com,4891502100,70,4053568,Apartment 61+,EL CAJON
+Hoban Property  Management,La Mesa Spring Gardens,4201 Spring St,La Mesa,91941,apartments.com,4994832500,104,1391343,Apartment 61+,LA MESA
+Hoban Property  Management,La Roca Plaza,10032 N Magnolia Ave,Santee,10032,apartments.com,3810204000,100,22972465,Apartment 61+,SANTEE
+Hoban Property  Management,Mapleview Apt. Homes,10229 Ashwood St,Lakeside,10229,apartments.com,3944804300,41,4167926,Apartment 16-60,LAKESIDE
+Hoban Property  Management,Mollison Villas,758 S Mollison Ave,El Cajon,92020,apartments.com,4931047500,62,10289066,Apartment 61+,EL CAJON
+Hoban Property  Management,Montebello Villas,1055 S Mollison Ave,El Cajon,92020,apartments.com,4932330500,53,4482448,Apartment 16-60,EL CAJON
+Hoban Property  Management,Orchard Villa Townhomes,11917 Orchard Rd,Lakeside,11917,apartments.com,3884220200,29,7693757,Apartment 16-60,LAKESIDE
+Hoban Property  Management,Parklane Apartments,9669 Gold Coast Dr,San Diego,92126,apartments.com,3412102400,92,6353527,Apartment 61+,SAN DIEGO
+Hoban Property  Management,Parkwood Gardens,244 Mollison Ave,El Cajon,92021,apartments.com,4881310700,130,10557661,Apartment 61+,EL CAJON
+Hoban Property  Management,Shannonwoods Townhomes,8031 Winter Gardens Blvd,El Cajon,92021,apartments.com,3882607300,48,9418240,Apartment 16-60,EL CAJON
+Hoban Property  Management,The Courtyards,553 S Magnolia Ave,El Cajon,92020,apartments.com,4882901400,63,3335259,Apartment 61+,EL CAJON
+Hoban Property  Management,The Vine Apartments,10127 Vine St,Lakeside,10127,apartments.com,3940613400,26,5836644,Apartment 16-60,LAKESIDE
+Hoban Property  Management,Vista Bella Apartments,1362 E Main St,El Cajon,92021,apartments.com,4891802600,68,7329900,Apartment 61+,EL CAJON
+Holland Partner Group,The Society Bradbury,610 Del Sol Dr N,San Diego,92108,apartments.com,4372605000,174,116022458,Apartment 61+,SAN DIEGO
+Holland Partner Group,The Society Felix,310 Del Sol Dr,San Diego,92108,apartments.com,4372605100,282,189135184,Apartment 61+,""
+Holland Partner Group,The Society Ruby,101 River Park Dr,San Diego,92108,apartments.com,4372605300,145,68917305,Apartment 61+,""
+Holland Partner Group,The Torrey,1200 Front St,San Diego,92101,apartments.com,5334141000,450,86774477,Apartment 61+,""
+Holland Partner Group,West,1011 Union St,San Diego,92101,apartments.com,5335170206,440,315028590,,""
+Hunt Builders Corporation,La Serena Apartments,15605-15677 Avenida Alcachofa,San Diego,15605,apartments.com,2748911500,159,20442187,Apartment 61+,SAN DIEGO
+IMT Residential,IMT Mission Valley,10343 San Diego Mission Rd,San Diego,10343,apartments.com,,,,,
+IMT Residential,IMT Sorrento Valley,11102 Caminito Alvarez,San Diego,11102,apartments.com,,,,,
+"Investment Concepts, Inc.",Dorado Plaza,6263 Acorn St,San Diego,92115,apartments.com,4676610700,34,2486290,Apartment 16-60,SAN DIEGO
+"Investment Concepts, Inc.",Villa Monair,3730 Southview Dr,San Diego,92117,apartments.com,6760301300,172,5429026,Apartment 61+,SAN DIEGO
+Irvine Company,Arcadia at StoneCrest Village,2643 W Canyon Ave,San Diego,92123,apartments.com,4290415107,1,861883,Single Family,SAN DIEGO
+Irvine Company,Del Rio Apartment Homes,2288 Fenton Pkwy,San Diego,92108,apartments.com,4331011100,1,6367595,,SAN DIEGO
+Irvine Company,Harborview Apartment Homes,820 W G St,San Diego,92101,apartments.com,5357004200,251,75711403,Apartment 61+,SAN DIEGO
+Irvine Company,La Jolla Palms Apartment Homes,3535 Lebon Dr,San Diego,92122,apartments.com,3451201700,232,58389805,Apartment 61+,SAN DIEGO
+Irvine Company,Monte Vista Apartment Homes,2507 Northside Dr,San Diego,92108,apartments.com,4332800200,398,145278810,Apartment 61+,SAN DIEGO
+Irvine Company,Solazzo Apartment Homes,8506 Villa La Jolla Dr,La Jolla,92037,apartments.com,3442903200,296,96070994,Apartment 61+,LA JOLLA
+Irvine Company,The Village Mission Valley,6555 Ambrosia Dr,San Diego,92124,apartments.com,,,,,
+Irvine Company,The Villas of Renaissance,5280 Fiore Ter,San Diego,92122,apartments.com,3452311100,0,0,,SAN DIEGO
+Irvine Company,Torrey Hills Apartment Homes,11026 W Ocean Air Dr,San Diego,11026,apartments.com,3074514800,60,21015610,Apartment 16-60,SAN DIEGO
+Irvine Company,Torrey Ridge Apartment Homes,4695 Torrey Cir,San Diego,92130,apartments.com,3073722900,430,102769965,Apartment 61+,SAN DIEGO
+Irvine Company,Torrey Villas Apartment Homes,11100 Vista Sorrento Pkwy,San Diego,11100,apartments.com,3101400100,46,22374521,Apartment 16-60,SAN DIEGO
+Irvine Company,Westwood Apartment Homes,7936 Avenida Navidad,San Diego,92122,apartments.com,3451720800,106,31246050,Apartment 61+,SAN DIEGO
+"J.F. Shea Co., Inc.",Valentia,5305 Toscana Way,San Diego,92122,apartments.com,3452220400,159,28408088,Apartment 61+,SAN DIEGO
+Jamboree Management,Maya Linda Apartments,9646-9680 Carroll Canyon Rd,San Diego,92126,apartments.com,3412104700,71,5799871,Apartment 61+,SAN DIEGO
+Liberty Military Housing,Bayview Hills – Military Housing,1565 Ridgewood Dr,San Diego,92139,apartments.com,,,,,
+Liberty Military Housing,Miramar Townhomes - Military Housing,45418 Howe Rd,San Diego,45418,apartments.com,,,,,
+Lyon Living,The Parker,5295 Kona Springs Ln,San Diego,92120,apartments.com,,,,,
+Mill Creek Residential,Modera San Diego,1445 K St,San Diego,92101,apartments.com,5353961400,0,7646940,,SAN DIEGO
+"Next Wave Property Management, LLC",City Villas Apartments,837-845 16th St,San Diego,92101,apartments.com,5343530700,3,171089,Multifamily 2-4,SAN DIEGO
+North Coast,ALX,300 14th St,San Diego,92101,apartments.com,5353721600,0,4800000,,SAN DIEGO
+Olympus Property,Olympus Corsair,8583 Aero Dr,San Diego,92123,apartments.com,4210501500,360,155313716,Apartment 61+,SAN DIEGO
+Pacifica Companies,Ashwood Apartments,12605 Mapleview St,Lakeside,12605,apartments.com,3940621000,62,3996155,Apartment 61+,LAKESIDE
+Pacifica Companies,Azure Point at Encinitas - 55+ Active Adult Apartments,480 S El Camino Real,Encinitas,92024,apartments.com,2595606600,44,4838708,Apartment 16-60,ENCINITAS
+Pacifica Companies,Bayview Tower Condominiums,801 National City Blvd,National City,91950,apartments.com,5564712813,171,29835849,Condo,NATIONAL CITY
+Pacifica Companies,Encinitas Senior Living - 55+ Active Adult Apartments,504 S El Camino Real,Encinitas,92024,apartments.com,2595606700,65,4712160,,ENCINITAS
+Pacifica Companies,Gateway Park  - 55+ Active Adult Apartments,12751 Gateway Park Rd,Poway,12751,apartments.com,,,,,
+Pacifica Companies,Legacy Hills at Poway 55+,12730 Monte Vista Rd,Poway,12730,apartments.com,2754701200,56,11483281,,POWAY
+Pacifica Companies,The Presidio Apartments,3350 Rosecrans St,SAN DIEGO,92110,apartments.com,4508021300,66,2846999,Hotel/Motel,SAN DIEGO
+Pacifica Companies,Woodlawn Gardens Apartments,502-544 Woodlawn Ave,Chula Vista,91910,apartments.com,5710400600,15,2186521,Apartment 5-15,CHULA VISTA
+"Prime Administration, LLC",Coral Bay,3309 Cowley Way,San Diego,92117,apartments.com,4251400200,30,2819803,Apartment 16-60,SAN DIEGO
+"Prime Administration, LLC",The Modern Apartments,3201 Annrae St,San Diego,92123,apartments.com,4270710100,84,25937015,Apartment 61+,SAN DIEGO
+Property Services,Alpine Woods,1829 Arnold Way,Alpine,91901,apartments.com,4033703000,33,3952767,Apartment 16-60,ALPINE
+Property Services,Avia La Jolla,6345 Gullstrand St,San Diego,92122,apartments.com,3482001300,54,13954544,Apartment 16-60,SAN DIEGO
+Property Services,Creekside Meadows,1750 Arnold Way,Alpine,91901,apartments.com,4033702700,144,22035132,Apartment 61+,ALPINE
+Property Services,La Jolla Nobel,4247 Nobel Dr,San Diego,92122,apartments.com,3487500300,64,7149459,Apartment 61+,SAN DIEGO
+Property Services,La Jolla Paseo,4655 Governor Dr,San Diego,92122,apartments.com,3482000100,76,20243118,Apartment 16-60,SAN DIEGO
+Property Services,North Park 55+ Apartments,3711 Herman Ave,San Diego,92104,apartments.com,4531720400,13,2503220,Apartment 5-15,SAN DIEGO
+Property Services,North Park Properties,3792 31st St,San Diego,92104,apartments.com,4531531600,17,3732076,Apartment 16-60,SAN DIEGO
+Property Services,Rancho Hillside Apartments,12367 Calle Albara,El Cajon,12367,apartments.com,,,,,
+Property Services,Town Park Villas,6245 Kantor St,San Diego,92122,apartments.com,3482000900,1,2410510,,SAN DIEGO
+Property West Residential,Elan Beachwalk,5025 Niagara Ave,San Diego,92107,apartments.com,4480822300,13,3553107,Apartment 5-15,SAN DIEGO
+Property West Residential,Elan Casa Mar,575 D St,Chula Vista,91910,apartments.com,5653300500,44,3026844,Apartment 16-60,CHULA VISTA
+Property West Residential,Elan Coco Palms,4975 Del Monte Ave,San Diego,92107,apartments.com,4481712900,48,5225751,Apartment 16-60,SAN DIEGO
+Property West Residential,Elan Glover Court,515 Glover Ave,Chula Vista,91910,apartments.com,5730102200,22,3544643,Apartment 16-60,CHULA VISTA
+Property West Residential,Elan Loma Highlands,2185 Chatsworth Blvd,San Diego,92107,apartments.com,4496111400,28,3963085,Apartment 16-60,SAN DIEGO
+Property West Residential,Elan Pacific Palms,4827 Niagara Ave,San Diego,92107,apartments.com,4482913600,9,1356144,Apartment 5-15,SAN DIEGO
+Property West Residential,Elan Sevilla,1301 Medical Center Dr,Chula Vista,91911,apartments.com,6411220100,156,37740199,Apartment 61+,CHULA VISTA
+Property West Residential,Elan The Park,4929 Del Monte Ave,San Diego,92107,apartments.com,4481712800,20,2618892,Apartment 16-60,SAN DIEGO
+Property West Residential,Elan The Plaza,4955 Narragansett Ave,San Diego,92107,apartments.com,4481723200,24,3204603,Apartment 16-60,SAN DIEGO
+Property West Residential,Elan View Pointe,54 Woodlawn Ave,Chula Vista,91910,apartments.com,5652904300,37,5602170,Apartment 16-60,CHULA VISTA
+Property West Residential,Elan Villa Parq,56 4th Ave,Chula Vista,91910,apartments.com,5651403100,53,12574944,Apartment 16-60,CHULA VISTA
+"R.A. Snyder Properties, Inc.",230 Church,230 Church Ave,Chula Vista,91910,apartments.com,5680712500,31,7414064,Apartment 16-60,CHULA VISTA
+"R.A. Snyder Properties, Inc.",611 Highland,611 Highland Ave,National City,91950,apartments.com,5564111000,19,8644500,,NATIONAL CITY
+"R.A. Snyder Properties, Inc.",Arbor Crest on Fourth,4186 4th Ave,San Diego,92103,apartments.com,4445121200,50,16354245,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Azalea Garden Apartments,3776 Herman Ave,San Diego,92104,apartments.com,4531641700,55,3850258,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Balboa Plaza,6699 Beadnell Way,San Diego,92117,apartments.com,3625804200,85,3168982,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Bonita Woods,6850-6890 Doriana St,San Diego,92139,apartments.com,5822701900,54,2073501,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Canyon Breeze,318 W Robinson Ave,San Diego,92103,apartments.com,4520132200,31,2292040,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Casa Aldea at University City Village,6132 Gullstrand St,San Diego,92122,apartments.com,,,,,
+"R.A. Snyder Properties, Inc.",Elan Baylofts,1450-1472 Pacific Beach Dr,San Diego,92109,apartments.com,4232821100,25,7759705,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Beachcomber La Jolla,8115 El Paseo Grande,La Jolla,92037,apartments.com,3462820500,16,3041618,Apartment 16-60,LA JOLLA
+"R.A. Snyder Properties, Inc.",Elan Beachhouse Del Mar,2515 Camino Del Mar,Del Mar,92014,apartments.com,2990631700,14,1838293,Apartment 5-15,DEL MAR
+"R.A. Snyder Properties, Inc.",Elan Beachlofts,852 Chalcedony St,Pacific Beach,92109,apartments.com,4154622100,10,1908701,Apartment 5-15,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Bella Mer Coronado,220 Orange Ave,Coronado,92118,apartments.com,5361522300,15,3718473,Apartment 5-15,CORONADO
+"R.A. Snyder Properties, Inc.",Elan Luxo II,1907 Columbia St,San Diego,92101,apartments.com,5335821900,40,24071224,,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Pacific Lofts,4467 Dawes St,Pacific Beach,92109,apartments.com,4230541700,23,5792194,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Poway Hills,13635 Cynthia Ln,Poway,13635,apartments.com,3171223000,23,5563841,Apartment 16-60,POWAY
+"R.A. Snyder Properties, Inc.",Elan Sandpiper Del Mar,833 S Cedros Ave,Solana Beach,92075,apartments.com,2984202500,52,3762567,Apartment 16-60,SOLANA BEACH
+"R.A. Snyder Properties, Inc.",Elan Sandrock Place,3443 Sandrock Rd,San Diego,92123,apartments.com,4212040300,28,5284465,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Scripps Terrace,10940 Scripps Ranch Blvd,San Diego,10940,apartments.com,3191801400,67,16528669,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Elan Solana Pointe,766 S Nardo Ave,Solana Beach,92075,apartments.com,2984303300,32,9117403,Apartment 16-60,SOLANA BEACH
+"R.A. Snyder Properties, Inc.",Elan Terraza La Jolla,5155-5158 Luigi Ter,San Diego,92122,apartments.com,3480107500,60,24064859,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Granada Terrace Apartments,1917 F Ave,National City,91950,apartments.com,5601922100,83,15153834,Apartment 61+,NATIONAL CITY
+"R.A. Snyder Properties, Inc.",Hillcrest Place,3955 7th Ave,San Diego,92103,apartments.com,4446831400,41,9506630,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",La Jolla View,4158 Decoro St,San Diego,92122,apartments.com,3487501000,160,4950601,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Loma Portal,3131 Cauby St,San Diego,92110,apartments.com,4508021000,100,2942091,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Oak Creek,12455 Oak Knoll Rd,Poway,12455,apartments.com,,,,,
+"R.A. Snyder Properties, Inc.",Pacific Gardens Genesee,8148 Genesee Ave,San Diego,92122,apartments.com,3487500400,156,38299333,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Pakeva,5310 Adobe Falls Rd,San Diego,92120,apartments.com,4624401700,100,23589360,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Parkline North Park,4250 Oregon St,San Diego,92104,apartments.com,4454220300,94,33210571,,""
+"R.A. Snyder Properties, Inc.",Pinewood Apartments,1104 Palm Ave,National City,91950,apartments.com,5572502200,52,1929999,Apartment 16-60,NATIONAL CITY
+"R.A. Snyder Properties, Inc.",Plaza 1640,1640 E Plaza Blvd,National City,91950,apartments.com,5574102400,91,5035019,Hotel/Motel,NATIONAL CITY
+"R.A. Snyder Properties, Inc.",Potomac Square Apartments,6325-6383 Potomac St,San Diego,92139,apartments.com,5881002300,8,738335,Apartment 5-15,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Rancho Bonita,6909-6957 Alcona St,San Diego,92139,apartments.com,5822701100,126,6002653,Apartment 61+,SAN DIEGO
+"R.A. Snyder Properties, Inc.",South Park Place,2915 E St,San Diego,92102,apartments.com,5395922500,0,501572,,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Sunshine Apartments,2115-2145 G Ave,National City,91950,apartments.com,5603202700,48,2301041,Apartment 16-60,NATIONAL CITY
+"R.A. Snyder Properties, Inc.",The Abington,3918 Arizona St,San Diego,92104,apartments.com,4456921800,48,21786602,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Village View,8155 Cargill Ave,San Diego,92122,apartments.com,3487500900,26,904481,Apartment 16-60,SAN DIEGO
+"R.A. Snyder Properties, Inc.",Whispering Pines,4085-4089 Nobel Dr,San Diego,92122,apartments.com,3487500100,60,2022993,Apartment 16-60,SAN DIEGO
+"R.W. Selby & Company, Inc.",Apex Mission Valley,7084-7148 Friars Rd,San Diego,92108,apartments.com,4372915000,1,32834618,,SAN DIEGO
+"R.W. Selby & Company, Inc.",Nobel Court,3707 Nobel Dr,San Diego,92122,apartments.com,3451903500,267,126876780,Apartment 61+,SAN DIEGO
+RPM,800 Broadway,800 Broadway,San Diego,92101,apartments.com,5341840300,389,199027213,,SAN DIEGO
+RPM,Current,1551 Union St,San Diego,92101,apartments.com,5333420200,144,76417380,,SAN DIEGO
+RPM,Monroe,3090 Polk Ave,San Diego,92104,apartments.com,4463213200,0,3963611,,SAN DIEGO
+RPM,Radian,675 9th Ave,San Diego,92101,apartments.com,5351360100,241,126050391,,SAN DIEGO
+Retirement Housing Foundation,Pacific Beach Shores,4820 Cass St,San Diego,92109,apartments.com,4154900200,0,322249,,SAN DIEGO
+River Oaks Management Inc.,Mr Robinson Lofts,3752 Park Blvd,San Diego,92103,apartments.com,4522005600,38,4751071,,SAN DIEGO
+River Oaks Management Inc.,Pharus Plaza,1034 Broadway,Chula Vista,91911,apartments.com,6181103200,2,2314313,,CHULA VISTA
+Sares-Regis Group,Casa Estilo,795 Third Ave,Chula Vista,91910,apartments.com,5733203900,0,1207304,,CHULA VISTA
+Sares-Regis Group,Toscana at Rancho Del Rey,841-855 Regulo Pl,Chula Vista,91910,apartments.com,6423920200,72,18914127,Apartment 61+,CHULA VISTA
+Sares-Regis Group,Urbana,393 H St,Chula Vista,91910,apartments.com,5922000100,1,26260429,,CHULA VISTA
+"Solari Enterprises, Inc.",The Helm - Affordable Housing,191 W Beech St,San Diego,92101,apartments.com,,,,,
+Strat Property Management,3550 Park,3550 Park Blvd,San Diego,92103,apartments.com,4523632500,24,8530436,Apartment 16-60,SAN DIEGO
+Strat Property Management,3755-3771 Ingraham St,3755-3771 Ingraham St,San Diego,92109,apartments.com,4245512100,16,3937123,Apartment 16-60,SAN DIEGO
+Strat Property Management,3833 Jewell St,3833 Jewell St,San Diego,92109,apartments.com,4245310900,19,8569254,Apartment 16-60,SAN DIEGO
+Strat Property Management,Above the Boulevard,4319 Mississippi St,San Diego,92104,apartments.com,4453321100,21,5851005,Apartment 16-60,SAN DIEGO
+Strat Property Management,City Lofts,2230 Albatross St,San Diego,92101,apartments.com,5331550700,20,5424480,Apartment 16-60,SAN DIEGO
+Strat Property Management,First and Pennsylvania Apartments,3677 First Ave,San Diego,92103,apartments.com,4522842200,34,4705267,Apartment 16-60,SAN DIEGO
+Strat Property Management,Pine Terrace Apartments,2960 Clairemont Dr,San Diego,92117,apartments.com,4257100500,38,4400630,Apartment 16-60,SAN DIEGO
+Strat Property Management,Redwood Terrace,225 Redwood St,San Diego,92103,apartments.com,4526270800,37,3416733,Apartment 16-60,SAN DIEGO
+Strat Property Management,Strauss on Fifth,3534 5th Ave,San Diego,92103,apartments.com,4524061600,0,1361074,,SAN DIEGO
+Strat Property Management,Villa Marquette,4191 Cleveland Ave,San Diego,92103,apartments.com,4454702800,22,2679077,Apartment 16-60,SAN DIEGO
+Sunrise Management,Angelina Terrace,181 E Orange Ave,Chula Vista,91911,apartments.com,6244012900,76,8212342,Apartment 61+,CHULA VISTA
+Sunrise Management,Barracuda Apartments,4188 5th Ave,San Diego,92103,apartments.com,4447102000,14,1222187,Apartment 5-15,SAN DIEGO
+Sunrise Management,Canyon Park,9555 Genesee Ave,San Diego,92121,apartments.com,3431402200,48,5859327,Apartment 16-60,SAN DIEGO
+Sunrise Management,Casa La Mesa,4395 70th St,La Mesa,91942,apartments.com,4695201800,105,9065418,Apartment 61+,LA MESA
+Sunrise Management,Casa Madrid,240 Quintard St,Chula Vista,91911,apartments.com,6230605700,88,18750000,Apartment 61+,CHULA VISTA
+Sunrise Management,Casas by the Sea,5060 La Jolla Blvd,San Diego,92109,apartments.com,4156400900,30,6264299,Apartment 16-60,SAN DIEGO
+Sunrise Management,Citrino,6916 Fulton St,San Diego,92111,apartments.com,4312500400,47,14389446,Apartment 16-60,SAN DIEGO
+Sunrise Management,Dezi,2696 Mission Village Dr,San Diego,92123,apartments.com,4292821300,1,628626,,SAN DIEGO
+Sunrise Management,Gardens Apartments,5544 Balboa Arms Dr,San Diego,92117,apartments.com,3612611000,94,26043544,Apartment 61+,SAN DIEGO
+Sunrise Management,Kelvin,7950 Broadway,Lemon Grove,91945,apartments.com,4801121200,1,551699,,LEMON GROVE
+Sunrise Management,Las Palmas Apartments,5275 Monroe Ave,San Diego,92115,apartments.com,4720221500,39,9272014,Apartment 16-60,SAN DIEGO
+Sunrise Management,Mellmanor Apartments,8750 Mellmanor Dr,La Mesa,91942,apartments.com,4902701900,170,12572387,Apartment 61+,LA MESA
+Sunrise Management,Melrose Canyon,4053 8th Ave,San Diego,92103,apartments.com,4445602500,52,3904102,Apartment 16-60,SAN DIEGO
+Sunrise Management,Mission Arbor Apartments,4555 Vandever,San Diego,92120,apartments.com,4610303700,47,6326509,Apartment 16-60,SAN DIEGO
+Sunrise Management,Park Diplomat,1707 Essex St,San Diego,92103,apartments.com,4522006500,0,471734,,SAN DIEGO
+Sunrise Management,Parkview Terrace,4103-4125 54th Pl,San Diego,92105,apartments.com,4722900500,100,7504851,Apartment 61+,SAN DIEGO
+Sunrise Management,Surfcaster Apartments,5050 Niagara Ave,San Diego,92107,apartments.com,4480813200,29,2386698,Apartment 16-60,SAN DIEGO
+Sunrise Management,The Noble,2420 B St,San Diego,92102,apartments.com,5341422300,24,7959060,Apartment 16-60,SAN DIEGO
+Sunrise Management,The Orchard Senior Apartments (55+),4040-4080 Hancock St,San Diego,92110,apartments.com,7601025600,275,29289340,Apartment 61+,SAN DIEGO
+Sunrise Management,The Park,4075 Park Blvd,San Diego,92103,apartments.com,4455512700,47,32459414,,SAN DIEGO
+Sunrise Management,The Plaza,1438-1448 E 8th St,National City,91950,apartments.com,5571800500,16,2148945,Apartment 16-60,NATIONAL CITY
+Sunrise Management,The Sands,13524 Hilleary Pl,Poway,13524,apartments.com,3171103400,22,6962557,Apartment 16-60,POWAY
+Sunrise Management,The Warwick,606 Washington St,San Diego,92103,apartments.com,4445332200,81,38567628,Apartment 61+,SAN DIEGO
+Sunrise Management,Torrey Pines Village,8939 Lombard Pl,San Diego,92122,apartments.com,3450900500,135,7186146,Apartment 61+,SAN DIEGO
+Sunrise Management,Villa Morocco,5545 Morro Way,La Mesa,91942,apartments.com,4645304900,106,4611639,Apartment 61+,LA MESA
+Sunrise Management,Villa Pacifica,3630 6th Ave,San Diego,92103,apartments.com,4522830800,64,8478268,Apartment 61+,SAN DIEGO
+Sunrise Management,Village Apartments,7004-7082 Eastman St,San Diego,92111,apartments.com,4312400100,16,239068,Apartment 16-60,SAN DIEGO
+Sunrise Management,Viridian Lofts,1014 Fifth Ave,San Diego,92101,apartments.com,5335250500,1,9980176,,SAN DIEGO
+Sunrise Management,WELCOME HOME,4776 Lamont St,San Diego,92109,apartments.com,4164412000,20,1088407,Apartment 16-60,SAN DIEGO
+The Prime Company,6nineteen,6213 Montezuma Rd,San Diego,92115,apartments.com,4671712800,243,10487955,,SAN DIEGO
+The REMM Group,Mesa Village Apartments,11355 Zapata Ave,San Diego,11355,apartments.com,3092600200,112,11131637,Apartment 61+,SAN DIEGO
+The REMM Group,Mesa Vista Apartment Homes,7980 Linda Vista Rd,San Diego,92111,apartments.com,4204505000,88,8632459,Apartment 61+,SAN DIEGO
+The REMM Group,Shasta Lane Apartments,5560 Shasta Ln,La Mesa,91942,apartments.com,4642921800,98,8848213,Apartment 61+,LA MESA
+Torrey Pines Property Management,Aztec Lofts,6159 Montezuma Rd,San Diego,92115,apartments.com,4671622200,8,1602947,Apartment 5-15,SAN DIEGO
+Torrey Pines Property Management,Bonita Heights Apartments,5151 Robinwood Rd,Bonita,91902,apartments.com,5892303100,70,7935198,Apartment 61+,BONITA
+Torrey Pines Property Management,Bridgeview Apartments,2925-2945 Broadway,San Diego,92102,apartments.com,5395912400,10,671104,Apartment 5-15,SAN DIEGO
+Torrey Pines Property Management,Catalina Pacific Apartments,2660-2674 Hornblend St,San Diego,92109,apartments.com,4241112000,8,1594110,Apartment 5-15,SAN DIEGO
+Torrey Pines Property Management,Cornerstone Lofts,302 E Island Ave,San Diego,92101,apartments.com,5350811200,42,5530518,Apartment 16-60,SAN DIEGO
+Torrey Pines Property Management,Emerald Manor Apartments,1930 Emerald St,San Diego,92109,apartments.com,4165322000,8,477044,Apartment 5-15,SAN DIEGO
+Torrey Pines Property Management,Golden Pacific Apartments,1015-1095 19th St,San Diego,92102,apartments.com,5342541700,54,13969998,Apartment 16-60,SAN DIEGO
+Torrey Pines Property Management,Greystone Lofts,303-319 Market,San Diego,92101,apartments.com,5350811100,37,6764062,Apartment 16-60,SAN DIEGO
+Torrey Pines Property Management,La Jolla West Wind,7601 Eads Ave,La Jolla,92037,apartments.com,3504610700,12,3096395,Apartment 5-15,LA JOLLA
+Torrey Pines Property Management,La Mesa Gardens,8633 La Mesa Blvd,La Mesa,91942,apartments.com,4943000200,100,11021278,Apartment 61+,LA MESA
+Torrey Pines Property Management,Mission Pacific,4454 44th St,San Diego,92115,apartments.com,4710311700,132,29893158,Apartment 61+,SAN DIEGO
+Torrey Pines Property Management,Ocean Palms Apartments,1346 Grand Ave,San Diego,92109,apartments.com,4231712300,26,10661955,Apartment 16-60,SAN DIEGO
+Torrey Pines Property Management,San Remo Court,540 Naples St,Chula Vista,91911,apartments.com,6181522400,33,3462344,Apartment 16-60,CHULA VISTA
+Torrey Pines Property Management,Talmadge Pacific Apartments,4470 Euclid Ave,San Diego,92115,apartments.com,4711220300,21,3072402,Apartment 16-60,SAN DIEGO
+Torrey Pines Property Management,The Pacific At Mission Bay,2636 Grand Ave,San Diego,92109,apartments.com,4241123200,113,27405401,Apartment 61+,SAN DIEGO
+Torrey Pines Property Management,The Quarry Apartments,4330-4350 Palm Ave,La Mesa,91941,apartments.com,4946413300,60,16286885,Apartment 16-60,LA MESA
+Torrey Pines Property Management,Village Apartments,5500 Morro Way,La Mesa,91942,apartments.com,4645305600,90,2942097,Apartment 61+,LA MESA
+Torrey Pines Property Management,Volterra Apartments,9071 Dallas St,La Mesa,91942,apartments.com,4856001700,94,24968998,Apartment 61+,LA MESA
+Torrey Pines Property Management,Windsor Apartments,1808 3rd Ave,San Diego,92101,apartments.com,5332830700,27,367757,Apartment 16-60,SAN DIEGO
+Trinity Property Consultants,Arrive Clairemont,6363 Beadnell Way,San Diego,92117,apartments.com,3623801800,94,32616540,Apartment 61+,SAN DIEGO
+Trinity Property Consultants,Arrive Mission Valley,5395 Napa St,San Diego,92110,apartments.com,4365000400,1,12432780,,SAN DIEGO
+Trinity Property Consultants,ReNew Serra Mesa,3454 Ruffin Rd,San Diego,92123,apartments.com,4212301600,44,13317120,Apartment 16-60,SAN DIEGO
+Trinity Property Consultants,ReNew Summit,2660 Alpine Blvd,Alpine,91901,apartments.com,4033102200,108,27959221,Apartment 61+,ALPINE
+UDR,13th &amp; Market,1330-1350 Market St,San Diego,92101,apartments.com,5351450900,264,100418691,,SAN DIEGO
+UDR,Strata,969-969 Market St,San Diego,92101,apartments.com,5351360400,1,406866,,SAN DIEGO
+Universe Holdings,Chateau Spring Hill Apartments,4341 Spring St,La Mesa,91941,apartments.com,4946413500,94,10697453,Apartment 61+,LA MESA
+Universe Holdings,Serena Vista Apartment Homes,5810 Amaya Dr,La Mesa,91942,apartments.com,4866703800,110,37676106,Apartment 61+,LA MESA
+Walsh & Company,Campus Village Apartments,5925 El Cajon Blvd,San Diego,92115,apartments.com,4667503700,49,13386557,Apartment 16-60,SAN DIEGO
+Wasatch Group,Eucalyptus Grove&nbsp;Apartments,67 E Flower St,Chula Vista,91910,apartments.com,5662801100,1,166488,Single Family,CHULA VISTA
+Waterton,Veranda La Mesa,5353 Baltimore Dr,La Mesa,91942,apartments.com,4642726200,106,37980094,Apartment 61+,LA MESA
+Whittington Property Management,402 Arbor Dr,402 Arbor Dr,San Diego,92103,apartments.com,4447202900,14,2295902,Apartment 5-15,SAN DIEGO
+Whittington Property Management,Antone Apartments,4052 1/2 Brant St,San Diego,92103,apartments.com,4444520600,6,1456265,Apartment 5-15,SAN DIEGO
+Whittington Property Management,Canyonwood Apartments,1830 Upas St,San Diego,92103,apartments.com,4533410300,41,9625460,Apartment 16-60,SAN DIEGO
+Whittington Property Management,Diplomat Apartments,6621 Montezuma Rd,San Diego,92115,apartments.com,4681700100,48,5473578,Apartment 16-60,SAN DIEGO
+Whittington Property Management,Hardy Apartments,5584 Hardy Ave,San Diego,92115,apartments.com,4660310500,27,3376921,Apartment 16-60,SAN DIEGO
+Whittington Property Management,Lakeview Park Apartments,9135 Mast Blvd,Santee,92071,apartments.com,3800312200,72,13237192,Apartment 61+,SANTEE
+Whittington Property Management,Love Where You Live,1616 Guy St,San Diego,92103,apartments.com,4512231500,32,4757356,Apartment 16-60,SAN DIEGO
+Whittington Property Management,Point Loma Bay Apartments,2440-2449 Soto St,San Diego,92107,apartments.com,4491201200,33,1180060,Apartment 16-60,SAN DIEGO
+Whittington Property Management,"Silverado Apartments, a 55+ Community",805 Valley Ave,Solana Beach,92075,apartments.com,2981643000,79,5439075,Apartment 61+,SOLANA BEACH
+Whittington Property Management,Town Center Apts,10233 Mission Gorge Rd,Santee,10233,apartments.com,3840810100,154,2911135,Apartment 61+,SANTEE
+Whittington Property Management,University Crest Apartments,1025 W University Ave,San Diego,92103,apartments.com,4446040100,1,106067,Single Family,SAN DIEGO
+Whittington Property Management,Woodman Village,6935 Paradise Valley Rd,San Diego,92139,apartments.com,5822701200,148,14637680,Apartment 61+,SAN DIEGO
+Willow Bridge,Casa Lago Eastlake,2816 Cielo Circulo,Chula Vista,91915,apartments.com,6437800700,0,0,,CHULA VISTA
+Willow Bridge,Nova Apartment Homes,707-777 G St,San Diego,92101,apartments.com,5357005213,1,1077249,Condo,SAN DIEGO
+Willow Bridge,Veranda La Jolla,3845 Nobel Dr,San Diego,92122,apartments.com,3451203900,0,0,,SAN DIEGO

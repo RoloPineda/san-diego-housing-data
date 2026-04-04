@@ -1,0 +1,115 @@
+name,address,city,state,zip,price,source_url
+Elowen,8555 Aero Drive,San Diego,CA,92123,2681.06,property://23119/
+Pierside South Apartments,115 N. Cleveland Street,Oceanside,CA,92054,2874.56,property://15763/
+Rowan,700 W Grand Ave,Escondido,CA,92025,2483.09,property://18770/
+Sunbow Villas,750 Paso De Luz,Chula Vista,CA,91911,2150.32,property://19243/
+Triton Encinitas,1967 N Vulcan,Encinitas,CA,92024,3907.88,property://21428/
+Array La Mesa,4949 Baltimore Drive,La Mesa,CA,91942,2363.78,property://20768/
+Persea,1333 N. Santa Fe Ave.,Vista,CA,92084,2482.75,property://17679/
+Palomar Station,1257 Armorlite Dr.,San Marcos,CA,92069,2320.88,property://19231/
+Parc One,320 Town Center Pkwy.,Santee,CA,92071,2503.75,property://19232/
+Flower Fields Apartments,2666 Flower Fields Way,Carlsbad,CA,92010,,property://17482/
+Park Pointe Apartments,2450 Hilton Head Pl.,El Cajon,CA,92019,2288.75,property://19233/
+Silo Apartments at Epoca,7231 Colchester CT.,San Diego,CA,92154,2388,property://19366/
+Rowyn,3775 Sixth Ave,San Diego,CA,92103,2366.5,property://22609/
+Vora Mission Valley,4440 Twain Ave. - Leasing Office East,San Diego,CA,92120,2286.25,property://19248/
+Folia,12520 Camino del Sur,San Diego,CA,92129,,property://22590/
+64 Forty Apartments,6440 El Cajon Blvd,San Diego,CA,92115,1979.88,property://22354/
+Metro Mission Valley,5080 Camino Del Arroyo,San Diego,CA,92108,2037.25,property://19225/
+The Casas,10802-B Camino Ruiz,San Diego,CA,92126,,property://19217/
+Entrada Apartments,453 13th Street,San Diego,CA,92101,1756.75,property://17282/
+Sola at Pacific Highlands Ranch,13385 Highlands Pl.,San Diego,CA,92130,3296.25,property://19241/
+2911 Adams,2911 Adams Avenue,San Diego,CA,92116,1899.5,property://21476/
+Tenth&G,707 Tenth Ave,San Diego,CA,92101,2013.35,property://12252/
+Cielo,915 West Grape Street,San Diego,CA,92101,2878.12,property://17670/
+Iconic on Alvarado,6625 Alvarado Rd,San Diego,CA,92120,,property://23343/
+MODE,635 Robinson Avenue,San Diego,CA,92103,2430.12,property://18060/
+K1 Apartments,330 13th Street,San Diego,CA,92101,,property://18006/
+Lakeview 88 Apartments,2758 Lake Pointe Drive,San Diego,CA,91977,3261.38,property://19426/
+Jefferson at Carmel Mountain Ranch,11832 Stoney Peak Drive,San Diego,CA,92128,,property://17533/
+Village Square Apartments,8683 Via Mallorca,San Diego,CA,92037,2447.75,property://19246/
+Ocean Breeze Apartments,561 W. San Ysidro Blvd.,San Diego,CA,92173,2130.56,property://11308/
+Casoleil,1100 Dennery Rd.,San Diego,CA,92154,2249.78,property://19218/
+525 Olive,525 Olive Street,San Diego,CA,92103,2862.38,property://17937/
+Riveredge Terrace,4805 Wind Surf Wy.,San Diego,CA,92154,3040.78,property://19235/
+AV8,2155 Kettner Blvd.,San Diego,CA,92101,2837.25,property://15145/
+Union Grantville,4520 Alvarado Canyon Road,San Diego,CA,92120,,property://19413/
+3167 Market,3167 Market St,San Diego,CA,92102,1900,property://21639/
+Legacy,9320 Hillery Dr.,San Diego,CA,92126,2399.75,property://19223/
+Valentina by Alta,1919 Pacific Highway,San Diego,CA,92101,,property://21363/
+Signature Point,13006 Signature Point,San Diego,CA,92130,4133.65,property://17032/
+Axiom La Jolla,3950 Mahalia Ave.,San Diego,CA,92122,,property://17480/
+Gravity,4560 Mission Gorge Place,San Diego,CA,92120,2111.65,property://18886/
+The Wyatt,1509 Broadway,San Diego,CA,92101,2045.65,property://21201/
+Regents La Jolla,9253 Regents Rd,San Diego,CA,92037,,property://17283/
+Overlook at Bernardo Heights,15909 Avenida Venusto,San Diego,CA,92128,,property://17549/
+Stanza Little Italy,310 A Street,San Diego,CA,92101,2392.35,property://20024/
+One Paseo Living,3200 Paseo Village Way,San Diego,CA,92014,3483.88,property://16051/
+Altura,11921 Carmel Creek Rd.,San Diego,CA,92130,3104.55,property://19213/
+Azul North Park,4499 Ohio Street,San Diego,CA,92116,2606.38,property://18735/
+Greenfield Village,5540 Ocean Gate Ln.,San Diego,CA,92154,2453.68,property://19220/
+Jackson Pointe 111 Apartments,2758 Lake Pointe Drive,San Diego,CA,91977,3321.62,property://19425/
+City View Apartments,840 17th Street,San Diego,CA,92101,2003.35,property://11307/
+Alexan Camellia,4888 Convoy St,San Diego,CA,92111,2602.25,property://22586/
+The Missions at Rio Vista,2242 Gill Village Wy. (Station Village Wy),San Diego,CA,92108,2502.88,property://19226/
+Gema Apartments,1471 8th Avenue,San Diego,CA,92101,2498.11,property://19735/
+Ascent at Campus of Life,9890 Graduate Driveway,San Diego,CA,92131,,property://17779/
+Palisade UTC,8800 Lombard Place,San Diego,CA,92122,,property://16163/
+Ironwood at Epoca Apartments,2240 Ironwood Circle,San Diego,CA,92154,2187,property://20723/
+Eighteen Ten State St.,1810 State Street,San Diego,CA,92101,,property://17076/
+Mason Townhomes at Epoca,2451 Mason Drive,San Diego,CA,92154,3476,property://20724/
+Denizen Apartments,3840 Sixth Avenue,San Diego,CA,92103,2604.78,property://20893/
+Park Summit Apartments,555 Upas Street,San Diego,CA,92103,3986.06,property://23241/
+Alexan Gallerie,375 Camino de la Reina,San Diego,CA,92108,2451.45,property://18110/
+The Landing at Ocean View Hills,455 Dennery Rd.,San Diego,CA,92154,2929.78,property://19222/
+Regents Court,8465 Regents Road,San Diego,CA,92122,,property://17554/
+Ocean Air,10500 Sea Pearl Cove,San Diego,CA,92130,4284.55,property://19229/
+Avino,5040 Camino San Fermin,San Diego,CA,92130,3305.55,property://19215/
+Broadstone Mission Valley,1908 Hotel Circle North,San Diego,CA,92108,2646.12,property://23032/
+Navajo Bluffs,6575 Jaffe Ct.,San Diego,CA,92119,1773.75,property://19227/
+Tenney North Park,2260 El Cajon Blvd,San Diego,CA,92104,,property://22352/
+Diega,702 Broadway,San Diego,CA,92101,2477.65,property://17949/
+625 Broadway,625 Broadway,San Diego,CA,92101,2005.88,property://17698/
+Ancora,110 Beech Street,San Diego,CA,92101,2427,property://22542/
+Stone Arbor,612 Los Arbolitos Blvd,Oceanside,CA,92054,2331.2,property://18287/
+Alta O'side,1001 N Coast Hwy,Oceanside,CA,92054,2902.78,property://21629/
+Pierside,260 Mission Avenue,Oceanside,CA,92054,3153.56,property://14009/
+Solana at Grand,1501 East Grand Avenue,Escondido,CA,92027,1780.5,property://15634/
+Marlowe Palomar Heights,"101 Chamomile Glen, Unit 100",Escondido,CA,92025,2607.03,property://21696/
+Latitude33,515 Meander Glen,Escondido,CA,92025,2307.75,property://18826/
+Altair Apartment Homes,1361 W 9th Ave.,Escondido,CA,92029,2415.88,property://19212/
+Haven76,2414 S Escondido Blvd,Escondido,CA,92025,2702.68,property://18769/
+Madera Ridge Apartments,1051 West El Norte Pkwy,Escondido,CA,92026,2280.15,property://19974/
+Alcove,650 North Centre City Pkwy,Escondido,CA,92025,2503.02,property://18764/
+Sereno,930 3rd Avenue,Chula Vista,CA,91911,2904.12,property://19058/
+Stirling at Cota Vera,2045 Paseo Belluno,Chula Vista,CA,91913,3070.97,property://22266/
+Vista Lane,1440 2nd Avenue,Chula Vista,CA,91911,,property://23381/
+Tavera,1465 Santa Victoria Rd.,Chula Vista,CA,91913,2971.25,property://19244/
+Artisan at the Village of Escaya,1151 Encanto Loop,Chula Vista,CA,91913,2643.65,property://22021/
+Terra Vista,1441 Santa Lucia Rd.,Chula Vista,CA,91913,2544.32,property://19245/
+The Residences at Cota Vera,1575 Camino Altezza,Chula Vista,CA,91913,2102.65,property://18968/
+Missions at Sunbow Apartments,825 East Palomar St.,Chula Vista,CA,91911,2513.06,property://19242/
+Teresina,1250 Santa Cora Avenue,Chula Vista,CA,91913,,property://22131/
+Rivue,1902 Millenia Ave.,Chula Vista,CA,91915,2252.25,property://17372/
+Palmera,1225 Broadway,Chula Vista,CA,91911,1977.88,property://20913/
+Boardwalk at Millenia,1660 Metro Ave.,Chula Vista,CA,91915,2467.06,property://17545/
+Luminary at Cota Vera,6000 Luminary Drive,Chula Vista,CA,91913,,property://22361/
+Salerno,1630 Paseo Monti,Chula Vista,CA,91913,4400.25,property://19237/
+Rolling Hills Gardens Apartments,2290 Mackenzie Creek Road,Chula Vista,CA,91914,,property://12231/
+Azul Chula Vista,310 K Street,Chula Vista,CA,91911,2306.88,property://19734/
+Rosina Vista,1551 Summerland St.,Chula Vista,CA,91913,2698.25,property://19236/
+Seta Apartments,7346 Parkway Dr.,La Mesa,CA,91942,2564.75,property://19239/
+The District Apartments,8727 Fletcher Parkway,La Mesa,CA,91942,,property://15586/
+Central Park,5636 Amaya Dr.,La Mesa,CA,91942,2675.75,property://19219/
+Adagio,5427 Lake Murray Blvd.,La Mesa,CA,91942,2306.75,property://19210/
+Bella Terra,365 Pomelo Dr.,Vista,CA,92081,2093.88,property://19216/
+Softwind Point,881 Soft Wind Rd,Vista,CA,92081,2123.88,property://19240/
+Shadowridge Woodbend,1500 Shadowridge Dr.,Vista,CA,92081,2360.88,property://19249/
+Whispering Oaks Apartments,468 North Twin Oaks Valley Road,San Marcos,CA,92069,2554.56,property://11318/
+222 North City,222 North City Drive,San Marcos,CA,92096,2584.06,property://22816/
+Overture San Marcos,852 Avenida Ricardo,San Marcos,CA,92069,1922.06,property://14657/
+Anden,152 North Twin Oaks Valley Road #106,San Marcos,CA,92069,3724.38,property://16052/
+Santee Villas,10445 Mast Blvd.,Santee,CA,92071,2228.75,property://19238/
+Ascend2300,2300 Rising Glen Wy.,Carlsbad,CA,92008,2709.88,property://19234/
+Lucia at Aviara,1205 Aviara Parkway,Carlsbad,CA,92011,,property://22426/
+The Lofts at Carlsbad Village,1040 Carlsbad Village Dr,Carlsbad,CA,92008,3645.45,property://19224/
