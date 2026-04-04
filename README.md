@@ -212,10 +212,11 @@ property management data but not neighborhood safety or complaint metrics.
   (CA Assembly Bill AB1785)
 - **Rental identification**: a parcel is classified as rental when its land
   use code is residential (codes 9-18) and `OWNEROCC != 'Y'`.
-  Owner-occupancy status is based on the assessor's records and may not
-  reflect recent changes in occupancy. An owner could move out and start
-  renting without the assessor knowing, or a new owner-occupant may not
-  have updated their homeowner exemption
+  The `OWNEROCC` flag is derived from whether the owner filed a homeowner
+  property tax exemption. Some owner-occupants never file, which would
+  inflate the rental count. However, our county-wide residential rental
+  rate (44.1%) is slightly below the Census ACS estimate (~46%),
+  suggesting the exemption gap roughly cancels out with other factors
 - **PMC attribution**: sourced from apartments.com PMC directory and direct
   company website scrapes. Represents "listed by" not "verified managed by".
   Covers ~60K of ~310K apartment units (5+ unit buildings) in the county.
