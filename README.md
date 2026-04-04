@@ -15,6 +15,17 @@ a unified dataset for research and policy analysis.
 - **8,325 active STRO licenses** (Airbnb-style short-term rentals) = 2.44% of city rental units
 - **13,162 Airbnb listings** scraped from Inside Airbnb (vs 8,325 licensed STROs)
 
+## Visualizations
+
+![PMC Market Concentration Treemap](docs/images/pmc_treemap.png)
+Share of PMC-managed rental units across San Diego County by property management company.
+
+![Rental vs Owner-Occupied by Property Type](docs/images/rental_by_type.png)
+Percentage of parcels classified as rental vs owner-occupied for each residential property type.
+
+![Airbnb Concentration by Neighborhood](docs/images/airbnb_concentration.png)
+Airbnb listing density per 1,000 rental units in the top 15 neighborhoods.
+
 ## Data Sources
 
 | Source | Records | Description |
