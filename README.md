@@ -169,33 +169,75 @@ jupyter lab rental_properties/rental_properties.ipynb
 
 ## Methodology
 
+### Geographic coverage
+
+Parcel data is **county-wide** (all of San Diego County), but crime, police
+calls for service, 311 complaints, and code enforcement data only cover the
+**City of San Diego**. Properties in other jurisdictions (Chula Vista,
+Oceanside, Escondido, El Cajon, Carlsbad, etc.) will show parcel and
+property management data but not neighborhood safety or complaint metrics.
+
+### Data sources and caveats
+
 - **Parcel data**: SANDAG county-wide parcel shapefile, updated monthly.
   Unit counts come from the assessor's `UNITQTY` field, which can be stale
   for new construction (may show 0 units for recently built buildings).
   Owner name data is no longer publicly available online since December 2025
   (CA Assembly Bill AB1785)
 - **Rental identification**: a parcel is classified as rental when its land
-  use code is residential (codes 9-18) and `OWNEROCC != 'Y'`
+  use code is residential (codes 9-18) and `OWNEROCC != 'Y'`.
+  Owner-occupancy status is based on the assessor's records and may not
+  reflect recent changes in occupancy. An owner could move out and start
+  renting without the assessor knowing, or a new owner-occupant may not
+  have updated their homeowner exemption
 - **PMC attribution**: sourced from apartments.com PMC directory and direct
   company website scrapes. Represents "listed by" not "verified managed by".
-  Covers ~60K of ~310K apartment units (5+ unit buildings) in the county
-- **Address matching**: three-pass approach used for STRO, PMC, and TOT
-  cross-references. Pass 1: street number + street name + zip. Pass 2:
-  number + street without zip. Pass 3: nearest address number on the same
-  street within 50. Normalizes suffixes (STREET/ST/AVENUE/AVE),
-  directions (NORTH/N/SOUTH/S), ordinals (FOURTH/4TH), abbreviations
-  (MT/MOUNT), periods, unit numbers, and address ranges
-- **Confidence flagging**: properties where a major PMC shows 0-4 units are
-  flagged as low-confidence (likely wrong parcel match from new construction)
-- **Code enforcement**: covers violations reported before January 2018 and
-  closed between 2015 and 2018. Does not include current violations. For
-  more recent data, see [OpenDSD](https://opendsd.sandiego.gov/web/cecases/)
-- **STRO matching**: 8,328 city STRO licenses matched to parcels at 98.1%
-  using the three-pass approach above
-- **Airbnb data**: single-point-in-time scrape from Inside Airbnb
-  (September 2025). Covers Airbnb listings only, not VRBO or other platforms
+  Covers ~60K of ~310K apartment units (5+ unit buildings) in the county.
+  The DRE licensee dataset is loaded for reference but not used for PMC
+  validation
+- **Building permits**: history spans two city systems (set1 pre-2018,
+  set2 2018-present) with different schemas. Pre-2018 records may lack
+  dates. Permit holder names reflect the contractor or developer who pulled
+  the permit, not necessarily the property owner or manager
+- **Code enforcement**: historical dataset covers violations reported before
+  January 2018 and closed between 2015 and 2018, with detailed violation
+  types. Current code enforcement activity is tracked through Get It Done
+  311 reports (2016-present) with less granular categorization. For recent
+  case-level data, see [OpenDSD](https://opendsd.sandiego.gov/web/cecases/)
 - **Crime data**: NIBRS offenses from San Diego Police Department, 2020-2026.
   City of San Diego jurisdiction only, not county-wide
-- **311 complaints**: Get It Done service requests, all available history.
+- **Police calls for service**: dispatch records including noise complaints,
+  trespassing, disturbances, and other incidents that may not result in a
+  formal crime report. Covers the same City of San Diego jurisdiction as
+  NIBRS data. Included in the database and available for address-level
+  queries
+- **311 complaints**: Get It Done service requests, 2016-present.
   City of San Diego only. Includes encampments, graffiti, parking, noise,
   illegal dumping, infrastructure maintenance, and other categories
+- **Airbnb data**: single-point-in-time scrape from Inside Airbnb
+  (September 2025). Covers the San Diego metro area (not just the city),
+  Airbnb listings only (not VRBO or other platforms). Listings churn
+  significantly; properties active in September 2025 may be inactive now
+  and vice versa. The 13K Airbnb listing count is not directly comparable
+  to the 8.3K city-only STRO license count due to this geographic mismatch
+
+### Address matching
+
+Three-pass approach used for STRO, PMC, and TOT cross-references:
+
+1. Street number + street name + zip (exact)
+2. Street number + street name + city (no zip, with jurisdiction filter)
+3. Nearest address number on the same street + zip (within 50)
+
+Normalizes suffixes (STREET/ST/AVENUE/AVE), directions (NORTH/N/SOUTH/S),
+ordinals (FOURTH/4TH), abbreviations (MT/MOUNT), periods, unit numbers,
+and address ranges. STRO licenses matched to parcels at 98.1% using this
+approach.
+
+### Confidence flagging
+
+Properties are assigned a confidence level:
+- **high**: exact or no-zip match with plausible unit count
+- **pass3**: proximity match (nearest address within 50 house numbers)
+- **low**: PMC with 5+ properties showing 0-4 units (likely wrong parcel
+  match from new construction; unit counts nulled out)
