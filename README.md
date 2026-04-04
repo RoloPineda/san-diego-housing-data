@@ -7,13 +7,28 @@ a unified dataset for research and policy analysis.
 
 ## Key Findings
 
+**Housing stock:**
 - **1,089,584** parcels in San Diego County
 - **1,196,234** residential units, of which **712,794** are rental (non-owner-occupied)
 - **City of San Diego**: 541,753 residential units, 341,266 rental units
-- Hotel rooms (65K) are excluded from the rental inventory as transient lodging
+- Only **2.7%** of housing stock was built since 2021 (25K units)
+- **60% of condos** are investor-owned rentals (vs 36% of single-family homes)
+
+**Property management:**
 - **639 properties** mapped to **74 property management companies** managing **60,000+ units**
-- **8,325 active STRO licenses** (Airbnb-style short-term rentals) = 2.44% of city rental units
-- **13,162 Airbnb listings** scraped from Inside Airbnb (vs 8,325 licensed STROs)
+- Top 10 PMCs control **66%** of professionally managed units
+- The remaining ~250K apartment units have no known PM attribution
+
+**Short-term rentals:**
+- **8,325 active STRO licenses** = 2.44% of city rental units
+- **13,162 Airbnb listings** (metro-wide, not directly comparable to city-only STROs)
+- **6.4% of Airbnb hosts** control **43% of listings**; the largest host operates 169 listings
+- 4 coastal neighborhoods (Mission Bay, Pacific Beach, La Jolla, Ocean Beach) account for 35% of all Airbnb activity
+
+**Quality of life (City of San Diego):**
+- Illegal dumping is the #1 complaint type (471K reports), still growing
+- Encampment complaints grew from 1,140 (2018) to 66,573 (2023), now declining
+- 1 in 5 police calls for service are renter-relevant (noise, disturbances, trespassing, theft)
 
 ## Visualizations
 
@@ -24,7 +39,7 @@ Share of PMC-managed rental units across San Diego County by property management
 Percentage of parcels classified as rental vs owner-occupied for each residential property type.
 
 ![Airbnb Concentration by Neighborhood](docs/images/airbnb_concentration.png)
-Airbnb listing density per 1,000 rental units in the top 15 neighborhoods.
+Top 20 neighborhoods by Airbnb listings, split by entire-home vs shared-room rentals.
 
 ## Data Sources
 
