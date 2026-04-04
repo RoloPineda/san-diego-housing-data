@@ -1,0 +1,677 @@
+[
+  {
+    "slug": "greystar",
+    "pid": "dv0gtnl",
+    "name": "Greystar",
+    "tier": "tier1",
+    "sd_communities": 77,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "r-a-snyder-properties-inc",
+    "pid": "vcvyyte",
+    "name": "R.A. Snyder Properties, Inc.",
+    "tier": "tier1",
+    "sd_communities": 40,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "sunrise-management",
+    "pid": "yqy7zmr",
+    "name": "Sunrise Management",
+    "tier": "tier1",
+    "sd_communities": 30,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "torrey-pines-property-management",
+    "pid": "e8v8v1m",
+    "name": "Torrey Pines Property Management",
+    "tier": "tier1",
+    "sd_communities": 20,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "conam-management-corporation",
+    "pid": "wc6855k",
+    "name": "CONAM Management Corporation",
+    "tier": "tier1",
+    "sd_communities": 17,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "hanken-cono-assad-co-inc",
+    "pid": "p83wyzv",
+    "name": "Hanken Cono Assad & Co., Inc.",
+    "tier": "tier1",
+    "sd_communities": 15,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "fairgrove-property-management",
+    "pid": "pcjtwjv",
+    "name": "FairGrove Property Management",
+    "tier": "tier1",
+    "sd_communities": 14,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "irvine-company",
+    "pid": "k17ten8",
+    "name": "Irvine Company",
+    "tier": "tier1",
+    "sd_communities": 12,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "whittington-property-management",
+    "pid": "jc1rxh4",
+    "name": "Whittington Property Management",
+    "tier": "tier1",
+    "sd_communities": 12,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "ctm-apartment-services",
+    "pid": "6kcwtlr",
+    "name": "CTM Apartment Services",
+    "tier": "tier2",
+    "sd_communities": 10,
+    "total_communities": 29,
+    "total_units": 2670
+  },
+  {
+    "slug": "strat-property-management",
+    "pid": "ycv28gr",
+    "name": "Strat Property Management",
+    "tier": "tier2",
+    "sd_communities": 10,
+    "total_communities": 10,
+    "total_units": 387
+  },
+  {
+    "slug": "fairfield",
+    "pid": "ge67wew",
+    "name": "Fairfield",
+    "tier": "tier2",
+    "sd_communities": 9,
+    "total_communities": 104,
+    "total_units": 29578
+  },
+  {
+    "slug": "essex",
+    "pid": "t7ksfv8",
+    "name": "Essex",
+    "tier": "tier2",
+    "sd_communities": 9,
+    "total_communities": 112,
+    "total_units": 38650
+  },
+  {
+    "slug": "f-f-income-properties",
+    "pid": "gbznc1w",
+    "name": "F&F Income Properties",
+    "tier": "tier2",
+    "sd_communities": 9,
+    "total_communities": 12,
+    "total_units": 478
+  },
+  {
+    "slug": "property-west-residential",
+    "pid": "hxsbq30",
+    "name": "Property West Residential",
+    "tier": "tier2",
+    "sd_communities": 9,
+    "total_communities": 12,
+    "total_units": 472
+  },
+  {
+    "slug": "amc",
+    "pid": "3d06fke",
+    "name": "AMC",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 615,
+    "total_units": 122827
+  },
+  {
+    "slug": "avenue5-residential",
+    "pid": "3we23ce",
+    "name": "Avenue5 Residential",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 569,
+    "total_units": 127501
+  },
+  {
+    "slug": "cardinal-group-management-and-advisory-llc",
+    "pid": "888l7x3",
+    "name": "Cardinal Group Management and Advisory, LLC",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 158,
+    "total_units": 31888
+  },
+  {
+    "slug": "garden-communities-california",
+    "pid": "d5swk2h",
+    "name": "Garden Communities California",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 17,
+    "total_units": 8413
+  },
+  {
+    "slug": "property-services",
+    "pid": "0txqkw1",
+    "name": "Property Services",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 14,
+    "total_units": 3069
+  },
+  {
+    "slug": "h-g-fenton-company",
+    "pid": "15hh416",
+    "name": "H.G. Fenton Company",
+    "tier": "tier2",
+    "sd_communities": 6,
+    "total_communities": 12,
+    "total_units": 1548
+  },
+  {
+    "slug": "equity-residential",
+    "pid": "16qxml6",
+    "name": "Equity Residential",
+    "tier": "tier2",
+    "sd_communities": 5,
+    "total_communities": 156,
+    "total_units": 51702
+  },
+  {
+    "slug": "pacifica-companies",
+    "pid": "x6htz4m",
+    "name": "Pacifica Companies",
+    "tier": "tier2",
+    "sd_communities": 5,
+    "total_communities": 84,
+    "total_units": 13724
+  },
+  {
+    "slug": "atlantic-pacific-companies",
+    "pid": "be8eklb",
+    "name": "Atlantic Pacific Companies",
+    "tier": "tier2",
+    "sd_communities": 5,
+    "total_communities": 83,
+    "total_units": 20645
+  },
+  {
+    "slug": "holland-partner-group",
+    "pid": "kbvq089",
+    "name": "Holland Partner Group",
+    "tier": "tier2",
+    "sd_communities": 5,
+    "total_communities": 65,
+    "total_units": 19340
+  },
+  {
+    "slug": "rpm",
+    "pid": "jmdlmn4",
+    "name": "RPM",
+    "tier": "tier2",
+    "sd_communities": 4,
+    "total_communities": 639,
+    "total_units": 177172
+  },
+  {
+    "slug": "trinity-property-consultants",
+    "pid": "gw0flhy",
+    "name": "Trinity Property Consultants",
+    "tier": "tier2",
+    "sd_communities": 4,
+    "total_communities": 172,
+    "total_units": 43128
+  },
+  {
+    "slug": "bridge-property-management",
+    "pid": "xpmsrzp",
+    "name": "Bridge Property Management",
+    "tier": "tier2",
+    "sd_communities": 4,
+    "total_communities": 143,
+    "total_units": 54347
+  },
+  {
+    "slug": "avalonbay",
+    "pid": "k14nn0c",
+    "name": "AvalonBay",
+    "tier": "tier2",
+    "sd_communities": 3,
+    "total_communities": 201,
+    "total_units": 72261
+  },
+  {
+    "slug": "the-remm-group",
+    "pid": "bke30wc",
+    "name": "The REMM Group",
+    "tier": "tier2",
+    "sd_communities": 3,
+    "total_communities": 43,
+    "total_units": 5021
+  },
+  {
+    "slug": "willow-bridge",
+    "pid": "0h817b0",
+    "name": "Willow Bridge",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 713,
+    "total_units": 197904
+  },
+  {
+    "slug": "blackstone",
+    "pid": "42bncml",
+    "name": "Blackstone",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 191,
+    "total_units": 61474
+  },
+  {
+    "slug": "udr",
+    "pid": "wj9c3lh",
+    "name": "UDR",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 169,
+    "total_units": 58800
+  },
+  {
+    "slug": "cannon-management",
+    "pid": "mwlfs3j",
+    "name": "Cannon Management",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 97,
+    "total_units": 14854
+  },
+  {
+    "slug": "imt-residential",
+    "pid": "d8dlf8k",
+    "name": "IMT Residential",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 43,
+    "total_units": 16233
+  },
+  {
+    "slug": "prime-administration-llc",
+    "pid": "67ytf7s",
+    "name": "Prime Administration, LLC",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 28,
+    "total_units": 15185
+  },
+  {
+    "slug": "investment-concepts-inc",
+    "pid": "7jf2pdw",
+    "name": "Investment Concepts, Inc.",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 54,
+    "total_units": 7138
+  },
+  {
+    "slug": "dinerstein",
+    "pid": "v77e9ne",
+    "name": "Dinerstein",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 25,
+    "total_units": 7141
+  },
+  {
+    "slug": "griffis-residential",
+    "pid": "4wq3kbh",
+    "name": "Griffis Residential",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 31,
+    "total_units": 9840
+  },
+  {
+    "slug": "universe-holdings",
+    "pid": "66cv58v",
+    "name": "Universe Holdings",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 31,
+    "total_units": 2716
+  },
+  {
+    "slug": "garden-homes",
+    "pid": "4gb7rqj",
+    "name": "Garden Homes",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 15,
+    "total_units": 5301
+  },
+  {
+    "slug": "r-w-selby-company-inc",
+    "pid": "xn3hggp",
+    "name": "R.W. Selby & Company, Inc.",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 31,
+    "total_units": 5218
+  },
+  {
+    "slug": "liberty-military-housing",
+    "pid": "mj9yk9l",
+    "name": "Liberty Military Housing",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 12,
+    "total_units": 5930
+  },
+  {
+    "slug": "river-oaks-management-inc",
+    "pid": "mmt5p5k",
+    "name": "River Oaks Management Inc.",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 11,
+    "total_units": 616
+  },
+  {
+    "slug": "hoban-property-management",
+    "pid": "ndlj4mm",
+    "name": "Hoban Property  Management",
+    "tier": "tier2",
+    "sd_communities": 2,
+    "total_communities": 15,
+    "total_units": 1000
+  },
+  {
+    "slug": "berkshire",
+    "pid": "mnplbnj",
+    "name": "Berkshire",
+    "tier": "tier2",
+    "sd_communities": 1,
+    "total_communities": 102,
+    "total_units": 34631
+  },
+  {
+    "slug": "mill-creek-residential",
+    "pid": "vzmqjee",
+    "name": "Mill Creek Residential",
+    "tier": "tier2",
+    "sd_communities": 1,
+    "total_communities": 90,
+    "total_units": 27800
+  },
+  {
+    "slug": "cirrus-asset-management-inc",
+    "pid": "r3qtze2",
+    "name": "Cirrus Asset Management, Inc.",
+    "tier": "tier2",
+    "sd_communities": 1,
+    "total_communities": 87,
+    "total_units": 10635
+  },
+  {
+    "slug": "waterton",
+    "pid": "80ple21",
+    "name": "Waterton",
+    "tier": "tier2",
+    "sd_communities": 1,
+    "total_communities": 74,
+    "total_units": 28604
+  },
+  {
+    "slug": "11residential-woodland-crossing",
+    "pid": "30kwbkf",
+    "name": "11Residential - Woodland Crossing",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "alfred",
+    "pid": "gp7gtmx",
+    "name": "Alfred",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "allen-properties",
+    "pid": "f1f559t",
+    "name": "Allen Properties",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "aperto-property-management",
+    "pid": "3zqs1nf",
+    "name": "Aperto Property Management",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "bob-cota-realty",
+    "pid": "lv6dl2e",
+    "name": "Bob Cota Realty",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "brookfield-properties",
+    "pid": "12r3st4",
+    "name": "Brookfield Properties",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "cal-american-real-estate-management",
+    "pid": "gfywdsy",
+    "name": "Cal-American Real Estate Management",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "decron-properties",
+    "pid": "n2068vm",
+    "name": "Decron Properties",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "delta-property-management",
+    "pid": "hsqymx3",
+    "name": "Delta Property Management",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "domain-capital-group",
+    "pid": "5wens2p",
+    "name": "Domain Capital Group",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "flats",
+    "pid": "n8pj0gm",
+    "name": "FLATS",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "gables-residential",
+    "pid": "fwgxr8r",
+    "name": "Gables Residential",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "hunt-builders-corporation",
+    "pid": "x5lmgwp",
+    "name": "Hunt Builders Corporation",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "j-f-shea-co-inc",
+    "pid": "fhbhgnv",
+    "name": "J.F. Shea Co., Inc.",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "jamboree-management",
+    "pid": "g11qnqy",
+    "name": "Jamboree Management",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "lyon-living",
+    "pid": "wwc2nmh",
+    "name": "Lyon Living",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "next-wave-property-management-llc",
+    "pid": "kw207nc",
+    "name": "Next Wave Property Management, LLC",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "north-coast",
+    "pid": "73bdztz",
+    "name": "North Coast",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "olympus-property",
+    "pid": "2wbrz3b",
+    "name": "Olympus Property",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "retirement-housing-foundation",
+    "pid": "qpq2s3x",
+    "name": "Retirement Housing Foundation",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "rkw-residential-management",
+    "pid": "x673ten",
+    "name": "RKW Residential Management",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "sares-regis-group",
+    "pid": "elgzqcq",
+    "name": "Sares-Regis Group",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "solari-enterprises-inc",
+    "pid": "fjsglcv",
+    "name": "Solari Enterprises, Inc.",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "the-prime-company",
+    "pid": "s8qbfm7",
+    "name": "The Prime Company",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "walsh-company",
+    "pid": "446z2wj",
+    "name": "Walsh & Company",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  },
+  {
+    "slug": "wasatch-group",
+    "pid": "kswy8p9",
+    "name": "Wasatch Group",
+    "tier": "directory",
+    "sd_communities": null,
+    "total_communities": null,
+    "total_units": null
+  }
+]
