@@ -35,8 +35,8 @@ a unified dataset for research and policy analysis.
 ![PMC Market Concentration Treemap](docs/images/pmc_treemap.png)
 Share of PMC-managed rental units across San Diego County by property management company.
 
-![Rental vs Owner-Occupied by Property Type](docs/images/rental_by_type.png)
-Percentage of parcels classified as rental vs owner-occupied for each residential property type.
+![How Much of Each Property Type is Rented Out?](docs/images/rental_by_type.png)
+Share of each property type that is rented out vs owner-occupied. 60% of condos are rentals.
 
 ![Airbnb Concentration by Neighborhood](docs/images/airbnb_concentration.png)
 Top 20 neighborhoods by Airbnb listings, split by entire-home vs shared-room rentals.
