@@ -10,6 +10,7 @@ a unified dataset for research and policy analysis.
 - **1,089,584** parcels in San Diego County
 - **1,196,234** residential units, of which **712,794** are rental (non-owner-occupied)
 - **City of San Diego**: 541,753 residential units, 341,266 rental units
+- Hotel rooms (65K) are excluded from the rental inventory as transient lodging
 - **639 properties** mapped to **74 property management companies** managing **60,000+ units**
 - **8,325 active STRO licenses** (Airbnb-style short-term rentals) = 2.44% of city rental units
 - **13,162 Airbnb listings** scraped from Inside Airbnb (vs 8,325 licensed STROs)
