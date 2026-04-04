@@ -168,12 +168,30 @@ jupyter lab rental_properties/rental_properties.ipynb
 
 ## Methodology
 
+- **Parcel data**: SANDAG county-wide parcel shapefile, updated monthly.
+  Unit counts come from the assessor's `UNITQTY` field, which can be stale
+  for new construction (may show 0 units for recently built buildings).
+  Owner name data is no longer publicly available online since December 2025
+  (CA Assembly Bill AB1785)
 - **Rental identification**: a parcel is classified as rental when its land
-  use code is residential and `OWNEROCC != 'Y'` (not owner-occupied)
+  use code is residential (codes 9-18) and `OWNEROCC != 'Y'`
 - **PMC attribution**: sourced from apartments.com PMC directory and direct
-  company website scrapes. Represents "listed by" not "verified managed by"
-- **Address matching**: three-pass approach (exact, no-zip fallback, nearest
-  address within 50). Normalizes suffixes (STREET/ST/AVENUE/AVE),
-  directions (NORTH/N), ordinals (FOURTH/4TH), and abbreviations (MT/MOUNT)
+  company website scrapes. Represents "listed by" not "verified managed by".
+  Covers ~60K of ~310K apartment units (5+ unit buildings) in the county
+- **Address matching**: three-pass approach used for STRO, PMC, and TOT
+  cross-references. Pass 1: street number + street name + zip. Pass 2:
+  number + street without zip. Pass 3: nearest address number on the same
+  street within 50. Normalizes suffixes (STREET/ST/AVENUE/AVE),
+  directions (NORTH/N/SOUTH/S), ordinals (FOURTH/4TH), abbreviations
+  (MT/MOUNT), periods, unit numbers, and address ranges
 - **Confidence flagging**: properties where a major PMC shows 0-4 units are
-  flagged as low-confidence (likely wrong parcel match from newer construction)
+  flagged as low-confidence (likely wrong parcel match from new construction)
+- **STRO matching**: 8,328 city STRO licenses matched to parcels at 98.1%
+  using the three-pass approach above
+- **Airbnb data**: single-point-in-time scrape from Inside Airbnb
+  (September 2025). Covers Airbnb listings only, not VRBO or other platforms
+- **Crime data**: NIBRS offenses from San Diego Police Department, 2020-2026.
+  City of San Diego jurisdiction only, not county-wide
+- **311 complaints**: Get It Done service requests, all available history.
+  City of San Diego only. Includes encampments, graffiti, parking, noise,
+  illegal dumping, infrastructure maintenance, and other categories
