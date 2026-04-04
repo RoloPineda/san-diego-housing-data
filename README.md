@@ -214,9 +214,22 @@ property management data but not neighborhood safety or complaint metrics.
   use code is residential (codes 9-18) and `OWNEROCC != 'Y'`.
   The `OWNEROCC` flag is derived from whether the owner filed a homeowner
   property tax exemption. Some owner-occupants never file, which would
-  inflate the rental count. However, our county-wide residential rental
-  rate (44.1%) is slightly below the Census ACS estimate (~46%),
-  suggesting the exemption gap roughly cancels out with other factors
+  inflate the rental count. Validation checks against the data:
+  - **Census cross-check**: our county-wide rental rate (44.1%) is slightly
+    below the Census ACS estimate (~46%), suggesting the overall count is
+    in the right range
+  - **Zip-level comparison**: we undercount rentals in dense urban zips
+    (downtown 92101: ours 64% vs census ~88%) and overcount in suburban
+    zips (Carmel Valley 92130: ours 36% vs census ~25%). These biases
+    partially cancel at the county level
+  - **Assessed value signal**: non-owner-occupied SFRs are assessed 27%
+    higher per sqft ($339 vs $266), consistent with investor properties
+    that lack the homeowner exemption and get reassessed more on resale
+  - **Purchase recency**: 52% of non-owner-occupied SFRs were purchased
+    2020-2026 vs 39% of owner-occupied, consistent with higher investor
+    turnover
+  - **STRO cross-check**: 26.6% of STRO licenses sit on owner-occupied
+    parcels, confirming that OWNEROCC='Y' does not preclude rental activity
 - **PMC attribution**: sourced from apartments.com PMC directory and direct
   company website scrapes. Represents "listed by" not "verified managed by".
   Covers ~60K of ~310K apartment units (5+ unit buildings) in the county.
