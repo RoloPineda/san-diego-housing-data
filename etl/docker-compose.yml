@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgis/postgis:16-3.4
+    container_name: sandiego_postgres
+    environment:
+      POSTGRES_USER: sandiego
+      POSTGRES_PASSWORD: sandiego
+      POSTGRES_DB: sandiego_data
+    ports:
+      - "5432:5432"
+    volumes:
+      - sandiego_pgdata:/var/lib/postgresql/data
+
+volumes:
+  sandiego_pgdata:
