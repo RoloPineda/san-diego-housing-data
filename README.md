@@ -186,6 +186,9 @@ jupyter lab rental_properties/rental_properties.ipynb
   (MT/MOUNT), periods, unit numbers, and address ranges
 - **Confidence flagging**: properties where a major PMC shows 0-4 units are
   flagged as low-confidence (likely wrong parcel match from new construction)
+- **Code enforcement**: covers violations reported before January 2018 and
+  closed between 2015 and 2018. Does not include current violations. For
+  more recent data, see [OpenDSD](https://opendsd.sandiego.gov/web/cecases/)
 - **STRO matching**: 8,328 city STRO licenses matched to parcels at 98.1%
   using the three-pass approach above
 - **Airbnb data**: single-point-in-time scrape from Inside Airbnb
