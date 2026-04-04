@@ -2,3 +2,12 @@
 /police_nibrs_crime/data/
 /building_permits/data/
 /rental_properties/data/
+/sandag/data/
+/airbnb/data/
+/dre_licensees/data/
+/apartments_com/data/
+/apartments_com/scrape.py
+/apartments_com/README.md
+/.venv/
+.idea/
+__pycache__/
